@@ -1,0 +1,65 @@
+originalWord,translation,description,wordType,article,preposition,kasus,reflexive
+gefallen,подобатися,Etwas gefällt immer jemandem,Verb,,,Dativ,FALSE
+erzählen,розповідати про,Erzählen von einer Sache oder Person,Verb,,von,Dativ,FALSE
+erzählen,розповідати детальніше,Wenn man erzählt dann über ein Thema,Verb,,über,Akkusativ,FALSE
+warten,чекати,Man wartet immer auf etwas,Verb,,auf,Akkusativ,FALSE
+helfen,допомагати,Man hilft immer jemandem,Verb,,,Dativ,FALSE
+erinnern,пам’ятати,Sich erinnern an die Vergangenheit denken,Verb,,an,Akkusativ,TRUE
+träumen,мріяти,Träumen immer von schönen Sachen,Verb,,von,Dativ,FALSE
+achten,звертати увагу,Achten immer auf eine Sache,Verb,,auf,Akkusativ,FALSE
+belohnen,нагороджувати,Man belohnt jemanden für etwas,Verb,,für,Akkusativ,FALSE
+befassen,займатися,Man befasst sich mit einem Thema,Verb,,mit,Dativ,TRUE
+wirken,діяти мати ефект,Etwas wirkt auf Menschen oder Dinge,Verb,,auf,Akkusativ,FALSE
+rufen,кликати,Man ruft laut nach jemandem,Verb,,nach,Dativ,FALSE
+frech,нахабний,Ein frecher Mensch sagt oder tut zu viel,Adjektiv,,,,FALSE
+prägen,формувати впливати,Etwas prägt das Leben stark,Verb,,,,FALSE
+entfernen,видаляти усувати,Man entfernt etwas oder sich von einem Ort,Verb,,von,Dativ,TRUE
+anpassen,пристосовуватись,Man passt sich an die Situation an,Verb,,an,Akkusativ,TRUE
+ersetzen,замінювати,Man ersetzt eine Sache durch eine andere,Verb,,durch,Akkusativ,FALSE
+erforderlich,необхідний,Etwas ist erforderlich man braucht es,Adjektiv,,,,FALSE
+Ereignis,подія,Ein Ereignis ist etwas Besonderes das passiert,Nomen,das,,,FALSE
+Verlust,втрата,Ein Verlust ist wenn man etwas nicht mehr hat,Nomen,der,,,FALSE
+rechnen,рахувати розраховувати,Man rechnet mit etwas,Verb,,mit,Dativ,FALSE
+beteiligen,брати участь,Man beteiligt sich an etwas,Verb,,an,Dativ,TRUE
+beurteilen,оцінювати,Man beurteilt eine Person oder Sache,Verb,,,,FALSE
+drastisch,різкий радикальний,Drastisch sehr stark und extrem,Adjektiv,,,,FALSE
+zweifeln,сумніватися,Man zweifelt an etwas,Verb,,an,Dativ,FALSE
+absehen,передбачати утриматися,Man sieht von etwas ab,Verb,,von,Dativ,FALSE
+unersetzbar,незамінний,Etwas ist unersetzbar man kann es nicht ersetzen,Adjektiv,,,,FALSE
+enttäuschen,розчаровувати,Jemand enttäuscht eine andere Person,Verb,,,,FALSE
+entschlossen,рішучий,Entschlossen man will etwas stark machen,Adjektiv,,,,FALSE
+handeln,діяти торгувати,Man handelt man tut etwas,Verb,,,,FALSE
+bitten,просити,Man bittet jemanden um etwas,Verb,,um,Akkusativ,FALSE
+aufregen,нервуватися злитися,Man regt sich über etwas auf,Verb,,über,Akkusativ,TRUE
+abraten,відмовляти,Man rät jemandem von etwas ab,Verb,,von,Dativ,FALSE
+bestimmen,визначати,Man bestimmt Regeln oder Grenzen,Verb,,,,FALSE
+Wert,цінність вартість,Der Wert zeigt wie wichtig etwas ist,Nomen,der,,,FALSE
+bemühen,намагатися,Man bemüht sich um etwas,Verb,,um,Akkusativ,TRUE
+anstrengend,виснажливий,Anstrengend etwas kostet viel Kraft,Adjektiv,,,,FALSE
+anstrengen,напружувати,Jemand strengt sich an viel Energie,Verb,,,,TRUE
+auswirken,впливати,Etwas wirkt sich auf etwas aus,Verb,,auf,Akkusativ,TRUE
+dienen,служить,arbeiten für jemanden,Verb,,,Dativ,FALSE
+verlieren,терять,etwas nicht mehr haben,Verb,,,Akkusativ,FALSE
+verlieren,теряться,ganz konzentriert werden,Verb,,in,Dativ,TRUE
+hinweisen,указывать,zeigen oder sagen wo etwas ist,Verb,,auf,Akkusativ,FALSE
+schätzen,оценивать,den Wert von etwas bestimmen,Verb,,,Akkusativ,FALSE
+schätzen,ценить,etwas sehr mögen und wichtig finden,Verb,,,Akkusativ,FALSE
+vertrauen,доверять,glauben dass jemand gut ist,Verb,,,Dativ,FALSE
+vertrauen,полагаться,sicher sein dass etwas funktioniert,Verb,,auf,Akkusativ,FALSE
+Ablenkung,отвлечение,etwas das die Aufmerksamkeit wegnimmt,Nomen,die,,,FALSE
+straffen,натягивать,etwas fest und straff machen,Verb,,,Akkusativ,FALSE
+straffen,подтягиваться,sich selbst fester machen,Verb,,,Akkusativ,TRUE
+gestalten,оформлять,etwas schön oder anders machen,Verb,,,Akkusativ,FALSE
+gestalten,организовать,etwas planen und ordnen,Verb,,,Akkusativ,FALSE
+Tratsch,сплетни,Gespräche über andere Menschen,Nomen,der,,,FALSE
+vielfältig,разнообразный,viele verschiedene Arten haben,Adjektiv,,,,FALSE
+zeitgemäß,современный,passend für die heutige Zeit,Adjektiv,,,,FALSE
+ausdienen,устареть/отслужить,nicht mehr nützlich oder modern sein,Verb,,,,FALSE
+vertreten,отстаивать/замещать/представлять,für eine Idee oder Meinung kämpfen,Verb,,,Akkusativ,FALSE
+belegen,покрывать/доказывать/записываться,zeigen dass etwas wahr ist,Verb,,,Akkusativ,FALSE
+Angestellte,сотрудник,eine Person die in einer Firma arbeitet,Nomen,der,,,FALSE
+durchführen,проводить,etwas machen oder organisieren,Verb,,,Akkusativ,FALSE
+Studie,исследование,wissenschaftliche Untersuchung von etwas,Nomen,die,,,FALSE
+Maßnahme,мера,etwas was man tut um ein Problem zu lösen,Nomen,die,,,FALSE
+befürworten,поддерживать,sagen dass etwas gut ist,Verb,,,Akkusativ,FALSE
+nachdenken,думать,mit dem Kopf über etwas arbeiten,Verb,,über,Akkusativ,FALSE

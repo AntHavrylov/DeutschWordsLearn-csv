@@ -1,0 +1,177 @@
+originalWord,translation,description,wordType,article,preposition,kasus,reflexive
+überzeugen,убеждать,jemanden zum Glauben bringen,Verb,,von,Dativ,FALSE
+steinreich,очень богатый,extrem wohlhabend,Adjektiv,,,,
+hören,слышать,Geräusche mit den Ohren wahrnehmen,Verb,,von,Dativ,FALSE
+losreißen,вырваться,von etwas befreien,Verb,,von,Dativ,TRUE
+profitieren,получать выгоду,Nutzen aus etwas ziehen,Verb,,von,Dativ,FALSE
+reden,говорить,sprechen oder unterhalten,Verb,,von,Dativ,FALSE
+schwärmen,восхищаться,begeistert von etwas sprechen,Verb,,von,Dativ,FALSE
+sprechen,говорить,Worte äußern oder unterhalten,Verb,,von,Dativ,FALSE
+träumen,мечтать,im Schlaf Bilder sehen oder etwas wünschen,Verb,,von,Dativ,FALSE
+trennen,расставаться,eine Verbindung beenden,Verb,,von,Dativ,TRUE
+unterscheiden,отличаться,anders sein als etwas anderes,Verb,,von,Dativ,TRUE
+verabschieden,прощаться,Abschied nehmen,Verb,,von,Dativ,TRUE
+wissen,знать,Kenntnis über etwas haben,Verb,,von,Dativ,FALSE
+zurückziehen,отступать,entfernen oder isolieren,Verb,,von,Dativ,TRUE
+ekeln,испытывать отвращение,Widerwillen empfinden,Verb,,vor,Dativ,TRUE
+flüchten,бежать,schnell weglaufen aus Angst,Verb,,vor,Dativ,FALSE
+fürchten,бояться,Angst haben vor etwas,Verb,,vor,Dativ,TRUE
+rechtfertigen,оправдываться,Handlungen erklären,Verb,,vor,Dativ,TRUE
+schützen,защищать,vor Schaden bewahren,Verb,,vor,Dativ,FALSE
+warnen,предупреждать,vor Gefahr informieren,Verb,,vor,Dativ,FALSE
+aufraffen,собраться с силами,Energie für etwas aufbringen,Verb,,zu,Dativ,TRUE
+beitragen,способствовать,einen Teil zu etwas beisteuern,Verb,,zu,Dativ,FALSE
+drängen,торопить,unter Druck setzen,Verb,,zu,Dativ,FALSE
+einladen,приглашать,jemanden bitten zu kommen,Verb,,zu,Dativ,FALSE
+entwickeln,развиваться,Fortschritte machen oder wachsen,Verb,,zu,Dativ,TRUE
+führen,вести,leiten oder den Weg zeigen,Verb,,zu,Dativ,FALSE
+gehören,принадлежать,Eigentum von jemandem sein,Verb,,zu,Dativ,FALSE
+gratulieren,поздравлять,Glückwünsche aussprechen,Verb,,zu,Dativ,FALSE
+kommen,приходить,an einen Ort bewegen,Verb,,zu,Dativ,FALSE
+meinen,иметь в виду,eine Meinung äußern,Verb,,zu,Dativ,FALSE
+passen,подходить,die richtige Größe oder Form haben,Verb,,zu,Dativ,FALSE
+wählen,выбирать,eine Entscheidung treffen,Verb,,zu,Dativ,FALSE
+telefonieren,звонить,ein Telefongespräch führen,Verb,,mit,Dativ,FALSE
+treffen,встречаться,zusammenkommen mit jemandem,Verb,,mit,Dativ,TRUE
+verbinden,соединять,zwei Dinge zusammenfügen,Verb,,mit,Dativ,FALSE
+vergleichen,сравнивать,Unterschiede und Gemeinsamkeiten feststellen,Verb,,mit,Dativ,FALSE
+verstehen,понимать друг друга,gut miteinander auskommen,Verb,,mit,Dativ,TRUE
+zusammenarbeiten,сотрудничать,gemeinsam an etwas arbeiten,Verb,,mit,Dativ,FALSE
+fragen,спрашивать,eine Frage stellen,Verb,,nach,Dativ,FALSE
+riechen,пахнуть,einen Geruch wahrnehmen,Verb,,nach,Dativ,FALSE
+rufen,звать,laut den Namen sagen,Verb,,nach,Dativ,FALSE
+schmecken,иметь вкус,einen bestimmten Geschmack haben,Verb,,nach,Dativ,FALSE
+sehen,видеть,mit den Augen wahrnehmen,Verb,,nach,Dativ,FALSE
+ärgern,злиться,verärgert oder wütend sein,Verb,,über,Akkusativ,TRUE
+austauschen,обмениваться,Informationen oder Meinungen teilen,Verb,,über,Akkusativ,TRUE
+beklagen,жаловаться,Unzufriedenheit äußern,Verb,,über,Akkusativ,TRUE
+belehren,поучать,jemandem etwas beibringen,Verb,,über,Akkusativ,FALSE
+beraten,консультировать,Rat oder Hilfe geben,Verb,,über,Akkusativ,FALSE
+berichten,сообщать,Informationen weitergeben,Verb,,über,Akkusativ,FALSE
+beschweren,жаловаться,Kritik oder Unmut äußern,Verb,,über,Akkusativ,TRUE
+brüten,высиживать,lange über etwas nachdenken,Verb,,über,Dativ,FALSE
+diskutieren,обсуждать,verschiedene Meinungen austauschen,Verb,,über,Akkusativ,FALSE
+freuen,радоваться,Freude empfinden,Verb,,über,Akkusativ,TRUE
+hinauskommen,выходить за пределы,mehr erreichen als erwartet,Verb,,über,Akkusativ,FALSE
+informieren,информироваться,Wissen über etwas sammeln,Verb,,über,Akkusativ,TRUE
+lächeln,улыбаться,ein freundliches Gesicht machen,Verb,,über,Akkusativ,FALSE
+lachen,смеяться,Freude durch Geräusche ausdrücken,Verb,,über,Akkusativ,FALSE
+nachdenken,размышлять,tief über etwas reflektieren,Verb,,über,Akkusativ,FALSE
+reden,говорить,sprechen oder diskutieren,Verb,,über,Akkusativ,FALSE
+referieren,докладывать,einen Vortrag über etwas halten,Verb,,über,Akkusativ,FALSE
+schimpfen,ругаться,ärgerlich oder wütend sprechen,Verb,,über,Akkusativ,FALSE
+sprechen,говорить,Worte äußern,Verb,,über,Akkusativ,FALSE
+streiten,спорить,einen Konflikt haben,Verb,,über,Akkusativ,TRUE
+verfügen,располагать,etwas zur Verfügung haben,Verb,,über,Akkusativ,FALSE
+wundern,удивляться,überrascht sein,Verb,,über,Akkusativ,TRUE
+bemühen,стараться,anstrengen etwas zu erreichen,Verb,,um,Akkusativ,TRUE
+bewerben,подавать заявление,für eine Stelle bewerben,Verb,,um,Akkusativ,TRUE
+bitten,просить,höflich um etwas fragen,Verb,,um,Akkusativ,FALSE
+gehen,идти,zu Fuß fortbewegen,Verb,,um,Akkusativ,FALSE
+handeln,торговать,Geschäfte machen,Verb,,um,Akkusativ,FALSE
+konkurrieren,конкурировать,im Wettbewerb stehen,Verb,,um,Akkusativ,FALSE
+kümmern,заботиться,um jemanden sorgen,Verb,,um,Akkusativ,TRUE
+leiden,страдать,Schmerz oder Kummer empfinden,Verb,,unter,Dativ,FALSE
+abweichen,отклоняться,von etwas entfernen,Verb,,von,Dativ,FALSE
+berichten,сообщать,Informationen mitteilen,Verb,,von,Dativ,FALSE
+entfernen,удаляться,von einem Ort wegbewegen,Verb,,von,Dativ,TRUE
+erholen,восстанавливаться,wieder Kraft gewinnen,Verb,,von,Dativ,TRUE
+erstrecken,простираться,über eine Fläche ausdehnen,Verb,,von,Dativ,TRUE
+erzählen,рассказывать,eine Geschichte wiedergeben,Verb,,von,Dativ,FALSE
+halten,держать,in der Hand behalten,Verb,,von,Dativ,FALSE
+handeln,действовать,etwas tun oder Geschäfte machen,Verb,,von,Dativ,FALSE
+engagieren,заниматься,aktiv beteiligen,Verb,,für,Akkusativ,TRUE
+entscheiden,решаться,eine Wahl treffen,Verb,,für,Akkusativ,TRUE
+entschuldigen,извиняться,um Verzeihung bitten,Verb,,für,Akkusativ,TRUE
+erwärmen,согревать,warm machen,Verb,,für,Akkusativ,FALSE
+halten,держать,unterstützen oder für richtig befinden,Verb,,für,Akkusativ,FALSE
+interessieren,интересоваться,Neugier für etwas haben,Verb,,für,Akkusativ,TRUE
+kämpfen,бороться,anstrengen etwas zu erreichen,Verb,,für,Akkusativ,FALSE
+plädieren,выступать за,für etwas einsetzen,Verb,,für,Akkusativ,FALSE
+sorgen,заботиться,um etwas kümmern,Verb,,für,Akkusativ,FALSE
+stimmen,голосовать,seine Stimme abgeben,Verb,,für,Akkusativ,FALSE
+tun,делать,eine Handlung ausführen,Verb,,für,Akkusativ,FALSE
+votieren,голосовать,seine Stimme für etwas abgeben,Verb,,für,Akkusativ,FALSE
+durchsetzen,добиваться успеха,Ziele erreichen,Verb,,gegen,Akkusativ,TRUE
+kämpfen,бороться,widersetzen,Verb,,gegen,Akkusativ,FALSE
+protestieren,протестовать,Widerstand zeigen,Verb,,gegen,Akkusativ,FALSE
+stimmen,голосовать,seine Stimme abgeben,Verb,,gegen,Akkusativ,FALSE
+tun,делать,etwas unternehmen,Verb,,gegen,Akkusativ,FALSE
+verteidigen,защищаться,gegen Angriffe wehren,Verb,,gegen,Akkusativ,TRUE
+verstoßen,нарушать,gegen Regeln handeln,Verb,,gegen,Akkusativ,FALSE
+votieren,голосовать,gegen etwas stimmen,Verb,,gegen,Akkusativ,FALSE
+halten,держаться,an einem Ort bleiben,Verb,,in,Dativ,TRUE
+hineinversetzen,вживаться,in jemanden einfühlen,Verb,,in,Akkusativ,TRUE
+integrieren,интегрироваться,Teil einer Gruppe werden,Verb,,in,Akkusativ,TRUE
+investieren,инвестировать,Geld anlegen,Verb,,in,Akkusativ,FALSE
+nachlassen,ослабевать,schwächer werden,Verb,,in,Dativ,FALSE
+übereinstimmen,совпадать,die gleiche Meinung haben,Verb,,in,Dativ,FALSE
+umrechnen,пересчитывать,in eine andere Währung umwandeln,Verb,,in,Akkusativ,FALSE
+abfinden,смириться,etwas akzeptieren,Verb,,mit,Dativ,TRUE
+abmühen,мучиться,sehr anstrengen,Verb,,mit,Dativ,TRUE
+anfangen,начинать,den Beginn von etwas machen,Verb,,mit,Dativ,FALSE
+assoziieren,ассоциировать,gedanklich verbinden,Verb,,mit,Dativ,FALSE
+aufhören,прекращать,etwas beenden,Verb,,mit,Dativ,FALSE
+auseinandersetzen,разбираться,intensiv beschäftigen,Verb,,mit,Dativ,TRUE
+auskennen,разбираться,gute Kenntnisse haben,Verb,,mit,Dativ,TRUE
+ausstatten,оснащать,mit etwas versehen,Verb,,mit,Dativ,FALSE
+austauschen,обмениваться,Erfahrungen teilen,Verb,,mit,Dativ,TRUE
+beauftragen,поручать,jemanden mit einer Aufgabe betrauen,Verb,,mit,Dativ,FALSE
+beeindrucken,впечатлять,einen starken Eindruck machen,Verb,,mit,Dativ,FALSE
+befassen,заниматься,beschäftigen,Verb,,mit,Dativ,TRUE
+beginnen,начинать,den Anfang machen,Verb,,mit,Dativ,FALSE
+belohnen,вознаграждать себя,selbst etwas Gutes tun,Verb,,mit,Dativ,TRUE
+beschäftigen,заниматься,Zeit mit etwas verbringen,Verb,,mit,Dativ,TRUE
+besprechen,обсуждать,über etwas reden,Verb,,mit,Dativ,FALSE
+konkurrieren,конкурировать,im Wettbewerb stehen,Verb,,mit,Dativ,FALSE
+rechnen,считать,kalkulieren oder erwarten,Verb,,mit,Dativ,FALSE
+reden,говорить,unterhalten,Verb,,mit,Dativ,FALSE
+schimpfen,ругать,tadeln oder schimpfen,Verb,,mit,Dativ,FALSE
+sprechen,говорить,ein Gespräch führen,Verb,,mit,Dativ,FALSE
+streiten,ссориться,einen Streit haben,Verb,,mit,Dativ,TRUE
+ändern,изменять,etwas anders machen,Verb,,an,Dativ,FALSE
+denken,думать,mit dem Verstand arbeiten,Verb,,an,Akkusativ,FALSE
+erinnern,вспоминать,etwas nicht vergessen,Verb,,an,Akkusativ,TRUE
+gewöhnen,привыкать,an etwas anpassen,Verb,,an,Akkusativ,TRUE
+glauben,верить,für wahr halten,Verb,,an,Akkusativ,FALSE
+liegen,лежать,an einem Ort befinden,Verb,,an,Dativ,FALSE
+richten,направлять,in eine bestimmte Richtung lenken,Verb,,an,Akkusativ,FALSE
+teilnehmen,участвовать,dabei sein,Verb,,an,Dativ,FALSE
+wenden,обращаться,um Hilfe bitten,Verb,,an,Akkusativ,TRUE
+zweifeln,сомневаться,unsicher sein,Verb,,an,Dativ,FALSE
+abwälzen,перекладывать,Verantwortung auf andere übertragen,Verb,,auf,Akkusativ,FALSE
+achten,обращать внимание,aufmerksam sein,Verb,,auf,Akkusativ,FALSE
+ankommen,прибывать,wichtig sein,Verb,,auf,Akkusativ,FALSE
+antworten,отвечать,eine Antwort geben,Verb,,auf,Akkusativ,FALSE
+aufpassen,быть осторожным,vorsichtig sein,Verb,,auf,Akkusativ,FALSE
+auswirken,влиять,Einfluss haben,Verb,,auf,Akkusativ,TRUE
+beziehen,относиться,in Verbindung stehen,Verb,,auf,Akkusativ,TRUE
+einigen,договариваться,zu einer Übereinkunft kommen,Verb,,auf,Akkusativ,TRUE
+einlassen,ввязываться,auf etwas einlassen,Verb,,auf,Akkusativ,TRUE
+einstellen,настраиваться,anpassen,Verb,,auf,Akkusativ,TRUE
+einstimmen,настраиваться,vorbereiten,Verb,,auf,Akkusativ,TRUE
+freuen,радоваться,glücklich sein über etwas Zukünftiges,Verb,,auf,Akkusativ,TRUE
+hinweisen,указывать,aufmerksam machen,Verb,,auf,Akkusativ,FALSE
+hoffen,надеяться,erwarten dass etwas Gutes passiert,Verb,,auf,Akkusativ,FALSE
+kommen,приходить,zu sprechen kommen,Verb,,auf,Akkusativ,FALSE
+konzentrieren,концентрироваться,die Aufmerksamkeit richten,Verb,,auf,Akkusativ,TRUE
+reagieren,реагировать,auf etwas antworten,Verb,,auf,Akkusativ,FALSE
+stellen,ставить,an einen bestimmten Platz setzen,Verb,,auf,Akkusativ,FALSE
+verlassen,полагаться,vertrauen,Verb,,auf,Akkusativ,TRUE
+verzichten,отказываться,freiwillig auf etwas verzichten,Verb,,auf,Akkusativ,FALSE
+vorbereiten,готовиться,für etwas bereit machen,Verb,,auf,Akkusativ,TRUE
+warten,ждать,auf jemanden oder etwas warten,Verb,,auf,Akkusativ,FALSE
+wirken,действовать,einen Einfluss haben,Verb,,auf,Akkusativ,FALSE
+zukommen,приближаться,nähern,Verb,,auf,Akkusativ,FALSE
+bestehen,состоять,zusammengesetzt sein,Verb,,aus,Dativ,FALSE
+herauskommen,выходить,nach draußen kommen,Verb,,aus,Dativ,FALSE
+zurückziehen,отступать,entfernen,Verb,,aus,Dativ,TRUE
+zusammensetzen,составляться,aus Teilen bestehen,Verb,,aus,Dativ,TRUE
+verweilen,задерживаться,länger an einem Ort bleiben,Verb,,bei,Dativ,FALSE
+erstrecken,простираться,über eine Strecke ausdehnen,Verb,,bis,Akkusativ,TRUE
+auszeichnen,отличаться,besondere Eigenschaften haben,Verb,,durch,Akkusativ,TRUE
+beeindrucken,впечатлять,einen starken Eindruck hinterlassen,Verb,,durch,Akkusativ,FALSE
+ersetzen,заменять,an die Stelle von etwas treten,Verb,,durch,Akkusativ,FALSE
+ausgeben,тратить,Geld für etwas verwenden,Verb,,für,Akkusativ,FALSE
+begeistern,воодушевляться,große Freude empfinden,Verb,,für,Akkusativ,TRUE
+einsetzen,заступаться,für jemanden verwenden,Verb,,für,Akkusativ,TRUE

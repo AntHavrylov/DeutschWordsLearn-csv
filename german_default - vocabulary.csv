@@ -1,0 +1,53 @@
+originalWord,translation,description,wordType,article,preposition,kasus,reflexive
+faulenzen,бездельничать,faul sein und nichts Produktives tun,Verb,,,,FALSE
+klettern,лазить,nach oben bewegen mit Händen und Füßen,Verb,,auf,Akkusativ,FALSE
+erleben,переживать,etwas durchmachen oder miterleben,Verb,,,Akkusativ,FALSE
+nützlich,полезный,praktischen Wert oder Nutzen haben,Adjektiv,,,Akkusativ,FALSE
+Ausstellung,выставка,öffentliche Präsentation von Kunst oder Objekten,Nomen,die,,Nominativ,FALSE
+basteln,мастерить,Dinge als Hobby mit den Händen herstellen,Verb,,an,Dativ,FALSE
+berühren,касаться,körperlichen Kontakt mit etwas herstellen,Verb,,,Akkusativ,FALSE
+engagieren,заниматься,für eine Sache oder Aktivität einsetzen,Verb,,für,Akkusativ,TRUE
+ehrenamtlich,добровольный,ohne Bezahlung für das Gemeinwohl getan,Adjektiv,,,,FALSE
+Ehre,честь,Respekt und Bewunderung für jemanden,Nomen,die,,Nominativ,FALSE
+verschwinden,исчезать,weggehen und unsichtbar werden,Verb,,,,FALSE
+fürchten,бояться,Angst vor etwas haben,Verb,,vor,Dativ,FALSE
+übertreiben,преувеличивать,etwas größer darstellen als es ist,Verb,,mit,Dativ,FALSE
+sämtliche,все,jeder einzelne ohne Ausnahme,Adjektiv,,,,
+Kai,причал,Stein- oder Betonplattform neben dem Wasser,Nomen,der,,Nominativ,FALSE
+Kamera,камера,Gerät zum Fotografieren,Nomen,die,,Nominativ,FALSE
+Blitz,молния,elektrische Entladung am Himmel,Nomen,der,,,FALSE
+Schwan,лебедь,großer weißer Wasservogel mit langem Hals,Nomen,der,,,FALSE
+dösen,дремать,leicht schlafen oder ein Nickerchen machen,Verb,,,,
+Fang,улов,das Fangen oder etwas Gefangenes,Nomen,der,,,FALSE
+Dutzend,дюжина,eine Gruppe von zwölf Gegenständen,Nomen,das,,,FALSE
+klopfen,стучать,etwas schlagen um ein Geräusch zu machen,Verb,,an,Akkusativ,FALSE
+einmischen,вмешиваться,in fremde Angelegenheiten einmischen,Verb,,in,Akkusativ,TRUE
+herrlich,великолепный,außerordentlich schön oder beeindruckend,Adjektiv,,,,
+verschlagen,хитрый,klug auf unehrliche oder hinterhältige Weise,Adjektiv,,,,
+schütteln,трясти,etwas schnell hin und her bewegen,Verb,,,Akkusativ,FALSE
+unterdrücken,подавлять,gewaltsam niederschlagen oder zurückhalten,Verb,,,Akkusativ,FALSE
+knapp,скудный,knapp bemessen oder gerade ausreichend,Adjektiv,,an,Dativ,FALSE
+angehen,браться за,ein Problem angehen und behandeln,Verb,,,Akkusativ,FALSE
+Stammtisch,стол завсегдатаев,Tisch für Stammkunden reserviert,Nomen,der,,Nominativ,FALSE
+ehrlich,честный,wahrhaftig und aufrichtig im Charakter,Adjektiv,,,,
+herrschen,править,Macht oder Kontrolle über andere haben,Verb,,über,Akkusativ,FALSE
+Treiber,водитель,Person die fährt oder treibende Kraft,Nomen,der,,Nominativ,FALSE
+ermuntern,подбадривать,jemandem Mut oder Hoffnung geben,Verb,,zu,Dativ,FALSE
+Ablauf,процесс,Abfolge von Ereignissen oder Verfahren,Nomen,der,,Nominativ,FALSE
+Hindernis,препятствие,etwas das den Fortschritt blockiert,Nomen,das,,Nominativ,FALSE
+hindern,мешать,jemandem Schwierigkeiten bereiten,Verb,,an,Dativ,FALSE
+Rente,пенсия,regelmäßige Zahlung an Rentner,Nomen,die,,Nominativ,FALSE
+überwinden,преодолевать,erfolgreich mit einem Problem umgehen,Verb,,,Akkusativ,FALSE
+derzeit,в настоящее время,zur gegenwärtigen Zeit,Adverb,,,,
+jauchzend,ликующий,Freude mit lauten Rufen ausdrücken,Adjektiv,,,,
+verantwortungsbewusst,ответственный,seiner Pflichten bewusst,Adjektiv,,,,
+talentiert,талантливый,mit natürlichen Fähigkeiten begabt,Adjektiv,,,,
+vergesslich,забывчивый,dazu neigend Dinge zu vergessen,Adjektiv,,,,
+tapfer,смелый,mutig angesichts von Gefahr,Adjektiv,,,,
+aufmerksam,внимательный,sorgfältig beobachtend und zuhörend,Adjektiv,,,,
+neugierig,любопытный,begierig darauf Neues zu erfahren,Adjektiv,,auf,Akkusativ,FALSE
+behaupten,утверждать,etwas als wahr darstellen,Verb,,,Akkusativ,FALSE
+Gebühr,плата,Preis für eine Dienstleistung,Nomen,die,,Nominativ,FALSE
+steigen,подниматься,nach oben gehen oder zunehmen,Verb,,,,
+zunehmen,увеличиваться,größer oder mehr werden,Verb,,,,
+drohen,угрожать,eine Gefahr oder Strafe ankündigen,Verb,,mit,Dativ,FALSE

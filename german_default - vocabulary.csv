@@ -51,3 +51,16 @@ Gebühr,плата,Preis für eine Dienstleistung,Nomen,die,,Nominativ,FALSE
 steigen,подниматься,nach oben gehen oder zunehmen,Verb,,,,
 zunehmen,увеличиваться,größer oder mehr werden,Verb,,,,
 drohen,угрожать,eine Gefahr oder Strafe ankündigen,Verb,,mit,Dativ,FALSE
+erhältlich,доступный,man kann es bekommen oder kaufen,Adjektiv,,,Nominativ,FALSE
+üblich,обычный,normal und oft gemacht,Adjektiv,,,Nominativ,FALSE
+ungewöhnlich,необычный,nicht normal oder selten,Adjektiv,,,Nominativ,FALSE
+Anbau,выращивание,Pflanzen wachsen lassen,Nomen,der,,,FALSE
+Grube,яма,tiefes Loch in der Erde,Nomen,die,,,FALSE
+Einsatz,использование/применение,etwas benutzen oder Arbeit machen,Nomen,der,,,FALSE
+verursachen,вызывать,etwas passieren lassen,Verb,,,Akkusativ,FALSE
+Qual,мучение,sehr starker Schmerz,Nomen,die,,,FALSE
+graben,копать,Erde mit einem Werkzeug bewegen,Verb,,,Akkusativ,FALSE
+Haltung,позиция/отношение,wie man denkt über etwas,Nomen,die,,,FALSE
+verschwenden,тратить впустую,etwas ohne Grund verbrauchen,Verb,,,Akkusativ,FALSE
+ernsthaft,серьёзно,nicht zum Spaß sondern wichtig,Adjektiv,,,Nominativ,FALSE
+überlegen,размышлять,denken über etwas,Verb,,über,Akkusativ,FALSE

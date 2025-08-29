@@ -10,7 +10,7 @@ engagieren,заниматься,für eine Sache oder Aktivität einsetzen,Verb,,
 ehrenamtlich,добровольный,ohne Bezahlung für das Gemeinwohl getan,Adjektiv,,,,FALSE
 Ehre,честь,Respekt und Bewunderung für jemanden,Nomen,die,,Nominativ,FALSE
 verschwinden,исчезать,weggehen und unsichtbar werden,Verb,,,,FALSE
-fürchten,бояться,Angst vor etwas haben,Verb,,vor,Dativ,FALSE
+fürchten,бояться,Angst vor etwas haben,Verb,,vor,Dativ,TRUE
 übertreiben,преувеличивать,etwas größer darstellen als es ist,Verb,,mit,Dativ,FALSE
 sämtliche,все,jeder einzelne ohne Ausnahme,Adjektiv,,,,
 Kai,причал,Stein- oder Betonplattform neben dem Wasser,Nomen,der,,Nominativ,FALSE
@@ -63,4 +63,43 @@ graben,копать,Erde mit einem Werkzeug bewegen,Verb,,,Akkusativ,FALSE
 Haltung,позиция/отношение,wie man denkt über etwas,Nomen,die,,,FALSE
 verschwenden,тратить впустую,etwas ohne Grund verbrauchen,Verb,,,Akkusativ,FALSE
 ernsthaft,серьёзно,nicht zum Spaß sondern wichtig,Adjektiv,,,Nominativ,FALSE
-überlegen,размышлять,denken über etwas,Verb,,über,Akkusativ,FALSE
+überlegen,размышлять,denken über etwas,Verb,,,Akkusativ,TRUE
+Entscheidung,решение,eine Wahl zwischen Möglichkeiten,Nomen,die,,Nominativ,FALSE
+Scheideweg,перепутье,Ort wo Wege sich trennen,Nomen,der,,Nominativ,FALSE
+fundieren,основывать,etwas auf Basis stützen,Verb,,auf,Dativ,FALSE
+Lebenswege,жизненные пути,verschiedene Richtungen im Leben,Nomen,die,,Nominativ,FALSE
+vollkommen,совершенный,ganz ohne Fehler,Adjektiv,,,,FALSE
+durchführen,проводить/выполнять,etwas machen bis Ende,Verb,,durch,Akkusativ,FALSE
+Wegweiser,указатель,Schild zeigt Richtung,Nomen,der,,Nominativ,FALSE
+Nesthäkchen,младший ребёнок,jüngster in der Familie,Nomen,das,,Nominativ,FALSE
+widersprechen,возражать,sagen dass man nicht einverstanden ist,Verb,,gegenüber,Dativ,FALSE
+Weisheit,мудрость,viel Erfahrung und Wissen,Nomen,die,,Nominativ,FALSE
+Eigenschaften,свойства,typische Merkmale von Dingen,Nomen,die,,Nominativ,FALSE
+beibringen,обучать,jemandem etwas zeigen,Verb,,bei,Dativ,FALSE
+einbringen,вносить,etwas in eine Gruppe geben,Verb,,in,Akkusativ,FALSE
+einleben,осваиваться,sich an neuen Ort gewöhnen,Verb,,,,TRUE
+einsteigen,садиться/входить,zu etwas gehen oder fahren,Verb,,in,Akkusativ,FALSE
+entwerfen,проектировать,Plan oder Skizze machen,Verb,,für,Akkusativ,FALSE
+sich entfernen,удаляться,weiter weg gehen,Verb,,von,Dativ,TRUE
+gestalten,оформлять,gibt Form oder Aussehen,Verb,,für,Akkusativ,FALSE
+herstellen,производить,machen oder fertigen,Verb,,,Akkusativ,FALSE
+herbringen,приносить,etwas an einen Ort bringen,Verb,,,Akkusativ,FALSE
+losfahren,отправляться,mit Fahrzeug Reise starten,Verb,,,FALSE,
+loslassen,отпускать,nicht mehr festhalten,Verb,,,Akkusativ,FALSE
+nachgeben,уступать,auf Wunsch anderer reagieren,Verb,,nach,Dativ,FALSE
+begnügen,довольствоваться,mit wenig zufrieden sein,Verb,,mit,Dativ,TRUE
+verhindern,предотвращать,etwas aufhalten,Verb,,,Akkusativ,FALSE
+verlernen,разучиваться,Fähigkeit verlieren,Verb,,,Akkusativ,FALSE
+verändern,изменять,anders machen,Verb,,,Akkusativ,FALSE
+trachten,стремиться,etwas ernst wollen,Verb,,nach,Dativ,FALSE
+zutreffen,подходить,genau richtig sein,Verb,,auf,Akkusativ,FALSE
+abgewinnen,отвоевывать/получать,durch Mühe bekommen,Verb,,,Dativ,FALSE
+durchblättern,пролистывать,schnell Seiten anschauen,Verb,,,Akkusativ,FALSE
+untertauchen,нырять,ins Wasser oder versteckt gehen,Verb,,,FALSE,
+tauschen,обменивать,mit anderen wechseln,Verb,,mit,Dativ,FALSE
+überfordern,перегружать,zu viel verlangen,Verb,,,Akkusativ,FALSE
+überlassen,оставлять/передавать,jemandem etwas geben,Verb,,,Dativ,FALSE
+Bewertung,оценка,Meinung oder Einschätzung,Nomen,die,,Nominativ,FALSE
+spinnen,прясть/сходить с ума,Fäden machen oder verrückt sein,Verb,,,Akkusativ,FALSE
+Vorlauf,предварительный этап,Zeit vor Ereignis,Nomen,der,,Nominativ,FALSE
+trauen,доверять,vertrauen haben/Mut zeigen,Verb,,,Dativ,FALSE

@@ -1,5 +1,5 @@
 originalWord,translation,description,wordType,article,preposition,kasus,reflexive
-faulenzen,лениться/бездельничать,faul sein und nichts Produktives tun,Verb,,,,FALSE
+faulenzen,бездельничать,faul sein und nichts Produktives tun,Verb,,,,FALSE
 klettern,лазить,nach oben bewegen mit Händen und Füßen,Verb,,auf,Akkusativ,FALSE
 erleben,переживать,etwas durchmachen oder miterleben,Verb,,,Akkusativ,FALSE
 nützlich,полезный,praktischen Wert oder Nutzen haben,Adjektiv,,,Akkusativ,FALSE
@@ -84,7 +84,7 @@ sich entfernen,удаляться,weiter weg gehen,Verb,,von,Dativ,TRUE
 gestalten,оформлять,gibt Form oder Aussehen,Verb,,für,Akkusativ,FALSE
 herstellen,производить,machen oder fertigen,Verb,,,Akkusativ,FALSE
 herbringen,приносить,etwas an einen Ort bringen,Verb,,,Akkusativ,FALSE
-losfahren,отправляться,mit Fahrzeug Reise starten,Verb,,,FALSE,
+losfahren,отправляться,mit Fahrzeug Reise starten,Verb,,,Akkusativ,
 loslassen,отпускать,nicht mehr festhalten,Verb,,,Akkusativ,FALSE
 nachgeben,уступать,auf Wunsch anderer reagieren,Verb,,nach,Dativ,FALSE
 begnügen,довольствоваться,mit wenig zufrieden sein,Verb,,mit,Dativ,TRUE
@@ -95,7 +95,7 @@ trachten,стремиться,etwas ernst wollen,Verb,,nach,Dativ,FALSE
 zutreffen,подходить,genau richtig sein,Verb,,auf,Akkusativ,FALSE
 abgewinnen,отвоевывать/получать,durch Mühe bekommen,Verb,,,Dativ,FALSE
 durchblättern,пролистывать,schnell Seiten anschauen,Verb,,,Akkusativ,FALSE
-untertauchen,нырять,ins Wasser oder versteckt gehen,Verb,,,FALSE,
+untertauchen,нырять,ins Wasser oder versteckt gehen,Verb,,,Akkusativ,
 tauschen,обменивать,mit anderen wechseln,Verb,,mit,Dativ,FALSE
 überfordern,перегружать,zu viel verlangen,Verb,,,Akkusativ,FALSE
 überlassen,оставлять/передавать,jemandem etwas geben,Verb,,,Dativ,FALSE

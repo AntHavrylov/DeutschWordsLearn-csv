@@ -72,7 +72,7 @@ vollkommen,совершенный,ganz ohne Fehler,Adjektiv,,,,FALSE
 durchführen,проводить/выполнять,etwas machen bis Ende,Verb,,durch,Akkusativ,FALSE
 Wegweiser,указатель,Schild zeigt Richtung,Nomen,der,,Nominativ,FALSE
 Nesthäkchen,младший ребёнок,jüngster in der Familie,Nomen,das,,Nominativ,FALSE
-widersprechen,возражать,sagen dass man nicht einverstanden ist,Verb,,gegenüber,Dativ,FALSE
+widersprechen,возражать,sagen dass man nicht einverstanden ist,Verb,,,Dativ,FALSE
 Weisheit,мудрость,viel Erfahrung und Wissen,Nomen,die,,Nominativ,FALSE
 Eigenschaften,свойства,typische Merkmale von Dingen,Nomen,die,,Nominativ,FALSE
 beibringen,обучать,jemandem etwas zeigen,Verb,,bei,Dativ,FALSE
@@ -80,7 +80,7 @@ einbringen,вносить,etwas in eine Gruppe geben,Verb,,in,Akkusativ,FALSE
 einleben,осваиваться,sich an neuen Ort gewöhnen,Verb,,,,TRUE
 einsteigen,садиться/входить,zu etwas gehen oder fahren,Verb,,in,Akkusativ,FALSE
 entwerfen,проектировать,Plan oder Skizze machen,Verb,,für,Akkusativ,FALSE
-sich entfernen,удаляться,weiter weg gehen,Verb,,von,Dativ,TRUE
+entfernen,удаляться,weiter weg gehen,Verb,,von,Dativ,TRUE
 gestalten,оформлять,gibt Form oder Aussehen,Verb,,für,Akkusativ,FALSE
 herstellen,производить,machen oder fertigen,Verb,,,Akkusativ,FALSE
 herbringen,приносить,etwas an einen Ort bringen,Verb,,,Akkusativ,FALSE
@@ -96,10 +96,51 @@ zutreffen,подходить,genau richtig sein,Verb,,auf,Akkusativ,FALSE
 abgewinnen,отвоевывать/получать,durch Mühe bekommen,Verb,,,Dativ,FALSE
 durchblättern,пролистывать,schnell Seiten anschauen,Verb,,,Akkusativ,FALSE
 untertauchen,нырять,ins Wasser oder versteckt gehen,Verb,,,Akkusativ,
-tauschen,обменивать,mit anderen wechseln,Verb,,mit,Dativ,FALSE
+tauschen,обменивать,mit anderen wechseln,Verb,,gegen,Dativ,FALSE
 überfordern,перегружать,zu viel verlangen,Verb,,,Akkusativ,FALSE
 überlassen,оставлять/передавать,jemandem etwas geben,Verb,,,Dativ,FALSE
 Bewertung,оценка,Meinung oder Einschätzung,Nomen,die,,Nominativ,FALSE
 spinnen,прясть/сходить с ума,Fäden machen oder verrückt sein,Verb,,,Akkusativ,FALSE
 Vorlauf,предварительный этап,Zeit vor Ereignis,Nomen,der,,Nominativ,FALSE
 trauen,доверять,vertrauen haben/Mut zeigen,Verb,,,Dativ,FALSE
+widmen,посвящать,Zeit oder Aufmerksamkeit für etwas geben,Verb,,,,FALSE
+bereuen,сожалеть,traurig sein über eine schlechte Entscheidung,Verb,,,,FALSE
+Motto,девиз,kurzer Satz der zeigt was wichtig ist,Nomen,der,,Nominativ,FALSE
+Erkenntnis,осознание/понимание,neues Wissen oder Verstehen,Nomen,die,,Nominativ,FALSE
+reingefallen,попался/обманулся,schlecht getäuscht worden,Other,,,,FALSE
+Not,нужда/беда,schwere Situation ohne Hilfe,Nomen,die,,Nominativ,FALSE
+neigen,склоняться/иметь тенденцию,oft etwas machen oder fühlen,Verb,,zu,Dativ,FALSE
+ableiten,выводить/получать,etwas Neues aus etwas Altem machen,Verb,,von,Dativ,FALSE
+wohl,вероятно/наверное,wahrscheinlich oder vermutlich,Adverb,,,,FALSE
+eher,скорее/больше,mehr als etwas anderes,Adverb,,,,FALSE
+Gegenzug,ответный ход,Reaktion auf eine Aktion,Nomen,der,,Dativ,FALSE
+umgehen,обходить,einen anderen Weg nehmen,Verb,,,,FALSE
+umgehen,обращаться,arbeiten oder leben mit etwas,Verb,,mit,Dativ,FALSE
+unterstellen,предполагать,glauben ohne Beweis,Verb,,,,FALSE
+unterstellen,подчинять,unter Kontrolle stellen,Verb,,,,FALSE
+widerspiegeln,отражать,zeigen wie in einem Spiegel,Verb,,,,FALSE
+überfordern,перегружать,zu viel verlangen,Verb,,,,FALSE
+Einfluss,влияние,Macht etwas zu ändern,Nomen,der,auf,Akkusativ,FALSE
+Förderung,поддержка/содействие,Hilfe für Entwicklung,Nomen,die,,Nominativ,FALSE
+Forderung,требование,starker Wunsch nach etwas,Nomen,die,,Nominativ,FALSE
+Trotz,упрямство,nicht hören wollen,Nomen,der,,Nominativ,FALSE
+durchaus,вполне/определенно,wirklich oder sehr,Adverb,,,,FALSE
+übersetzen,переводить/переправляться,Text in andere Sprache machen,Verb,,,,FALSE
+durchfahren,проезжать,ohne Stopp durch etwas fahren,Verb,,durch,Akkusativ,FALSE
+überziehen,превышать/покрывать,mehr nehmen als erlaubt,Verb,,,,FALSE
+spiegeln,отражаться,wie Bild in Wasser zeigen,Verb,,,Akkusativ,TRUE
+nachvollziehen,понимать/проследить,verstehen wie etwas passiert,Verb,,,,FALSE
+Anregung,побуждение/стимул,Idee für neue Aktivität,Nomen,die,,Nominativ,FALSE
+stoßen,наталкиваться/встречать,treffen oder finden,Verb,,auf,Akkusativ,FALSE
+schnappen,хватать/ловить,schnell nehmen,Verb,,,,FALSE
+greifen,хватать/брать,mit Hand nehmen,Verb,,,,FALSE
+abwägen,взвешивать/обдумывать,gut überlegen vor Entscheidung,Verb,,,,FALSE
+übernehmen,принимать/брать на себя,Verantwortung oder Aufgabe nehmen,Verb,,,,FALSE
+Eindruck,впечатление,Gefühl über Person oder Sache,Nomen,der,,Nominativ,FALSE
+Bezug,отношение/связь,Verbindung zwischen zwei Sachen,Nomen,der,auf,Akkusativ,FALSE
+vorteilhaft,выгодный/полезный,gut für eigene Situation,Adjektiv,,,,FALSE
+herschieben,подталкивать сюда,etwas zu sich bewegen,Verb,,,,FALSE
+nachholen,наверстывать,später machen was man vergessen hat,Verb,,,,FALSE
+widerstreben,противиться,nicht wollen oder mögen,Verb,,,,FALSE
+Au-pair,гувернантка/помощница,junge Person die im Ausland arbeitet,Nomen,das,,Nominativ,FALSE
+ausdrücken,выражать,Gedanken oder Gefühle zeigen,Verb,,,,FALSE

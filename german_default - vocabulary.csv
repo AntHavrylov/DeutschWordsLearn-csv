@@ -144,3 +144,33 @@ nachholen,наверстывать,später machen was man vergessen hat,Verb,,,,
 widerstreben,противиться,nicht wollen oder mögen,Verb,,,,FALSE
 Au-pair,гувернантка/помощница,junge Person die im Ausland arbeitet,Nomen,das,,Nominativ,FALSE
 ausdrücken,выражать,Gedanken oder Gefühle zeigen,Verb,,,,FALSE
+herschieben,толкать/двигать,etwas mit Kraft an einen anderen Ort bewegen,Verb,,,Akkusativ,FALSE
+offenhalten,быть на чеку,etwas nicht schließen oder verschließen,Verb,,,Akkusativ,FALSE
+Reihenfolge,последовательность,die Art wie Dinge nacheinander kommen,Nomen,die,,Nominativ,FALSE
+entfalten,развиваться/раскрываться,sich selbst entwickeln,Verb,,,Akkusativ,TRUE
+Quantität,количество,die Menge von etwas,Nomen,die,,Nominativ,FALSE
+Qualität,качество,wie gut etwas ist,Nomen,die,,Nominativ,FALSE
+Unterschied,различие,wenn zwei Dinge nicht gleich sind,Nomen,der,,Nominativ,FALSE
+zutreffen,подходить/применяться/иметь место,richtig oder passend sein,Verb,,auf,Akkusativ,FALSE
+nachhaltig,устойчивый,für lange Zeit gut für die Umwelt,Adjektiv,,,,FALSE
+Riese,великан/гигант,sehr großer Mensch oder sehr große Sache,Nomen,der,,Nominativ,FALSE
+Riesenthema,огромная тема,sehr wichtiges und großes Thema,Nomen,das,,Nominativ,FALSE
+prägen,формировать/чеканить/оставлять след,etwas stark beeinflussen oder Münzen machen,Verb,,,Akkusativ,FALSE
+Wertvorstellung,представление о ценностях,was eine Person für wichtig hält,Nomen,die,,Nominativ,FALSE
+Lebensumfeld,жизненная среда,der Ort und die Menschen um eine Person,Nomen,das,,Nominativ,FALSE
+Ausrichtung,направление/ориентация,die Richtung oder das Ziel von etwas,Nomen,die,,Nominativ,FALSE
+auffallen,привлекать внимание,bemerkt werden oder andere bemerken,Verb,,,Dativ,FALSE
+hervorstehen,выделяться/торчать,über etwas hinausragen,Verb,,,Nominativ,FALSE
+hervorstechen,выделяться/бросаться в глаза,sehr deutlich sichtbar sein,Verb,,,Nominativ,FALSE
+ausformen,формировать/оформлять,eine bestimmte Form geben,Verb,,,Akkusativ,FALSE
+rasant,стремительный/быстрый,sehr schnell,Adjektiv,,,,FALSE
+besinnen,напоминать/размышлять/одуматься,über etwas nachdenken,Verb,,,Akkusativ,TRUE
+aufwenden,тратить/затрачивать,Zeit oder Geld für etwas benutzen,Verb,,von,Akkusativ,TRUE
+aufgeben,сдаваться/отказываться/отправлять,nicht mehr versuchen oder etwas senden,Verb,,,Akkusativ,FALSE
+mithilfe,с помощью,mit der Unterstützung von jemandem oder etwas,Preposition,,,Genitiv,FALSE
+Weile,время/некоторое время,eine kurze Zeit,Nomen,die,,Nominativ,FALSE
+heimlich,тайно/секретно,so dass andere es nicht wissen,Adjektiv,,,,FALSE
+Umfrage,опрос,wenn man viele Menschen etwas fragt,Nomen,die,,Nominativ,FALSE
+wildfremd,совершенно незнакомый,völlig unbekannt,Adjektiv,,,,FALSE
+überschnappen,заедать/сломаться,verrückt werden oder zu weit gehen,Verb,,,Nominativ,FALSE
+annehmen,принимать/предполагать,etwas bekommen oder glauben dass etwas wahr ist,Verb,,,Akkusativ,FALSE

@@ -171,39 +171,39 @@ wildfremd,совершенно незнакомый,völlig unbekannt,Adjektiv,,
 überschnappen,заедать/сломаться,verrückt werden oder zu weit gehen,Verb,,,Nominativ,FALSE
 annehmen,принимать/предполагать,etwas bekommen oder glauben dass etwas wahr ist,Verb,,,Akkusativ,FALSE
 jeweilige,соответствующий,das was gerade gemeint ist,Adjektiv,,,,FALSE
-die Gesellschaft,общество,alle Menschen zusammen,Nomen,die,,,FALSE
+Gesellschaft,общество,alle Menschen zusammen,Nomen,die,,,FALSE
 übertragen,передавать/переносить,etwas zu einem anderen bringen,Verb,,auf,Akkusativ,FALSE
 unter anderem,среди прочего,auch noch andere Dinge,Other,,,,FALSE
-die Verwirklichung,осуществление,etwas real machen,Nomen,die,,,FALSE
+Verwirklichung,осуществление,etwas real machen,Nomen,die,,,FALSE
 deutlich,ясно/отчетливо,sehr klar,Adverb,,,,FALSE
 erscheinen,появляться/казаться,sichtbar werden oder scheinen,Verb,,,Nominativ,FALSE
-die Bedingungen,условия,was nötig ist für etwas,Nomen,die,,,FALSE
+Bedingungen,условия,was nötig ist für etwas,Nomen,die,,,FALSE
 unbestritten,неоспоримый,alle sind damit einverstanden,Adjektiv,,,,FALSE
 bereisen,путешествовать по,durch ein Land fahren,Verb,,,Akkusativ,FALSE
 zeichnen,рисовать/характеризовать,mit Stift Bilder machen,Verb,,,Akkusativ,FALSE
-der Rahmen,рамка/рамки,was um etwas herum ist,Nomen,der,,,FALSE
+Rahmen,рамка/рамки,was um etwas herum ist,Nomen,der,,,FALSE
 nötigen,принуждать,jemanden zwingen,Verb,,,Akkusativ,FALSE
 verzichten,отказываться,etwas nicht nehmen,Verb,,auf,Akkusativ,FALSE
-die Unterhaltung,развлечение/разговор,Spaß oder Gespräch,Nomen,die,,,FALSE
-der Bruch,перелом/разрыв,wenn etwas kaputt geht,Nomen,der,,,FALSE
+Unterhaltung,развлечение/разговор,Spaß oder Gespräch,Nomen,die,,,FALSE
+Bruch,перелом/разрыв,wenn etwas kaputt geht,Nomen,der,,,FALSE
 kehren,подметать/поворачивать,mit Besen sauber machen,Verb,,,Akkusativ,FALSE
 umkehren,поворачивать назад,in andere Richtung gehen,Verb,,,Akkusativ,FALSE
-der Geselle,подмастерье,Arbeiter der lernt,Nomen,der,,,FALSE
+Geselle,подмастерье,Arbeiter der lernt,Nomen,der,,,FALSE
 wandeln,изменять/гулять,sich ändern oder gehen,Verb,,in,Akkusativ,TRUE
 während,во время/пока,in der Zeit wenn etwas passiert,Preposition,,,Genitiv,FALSE
 also,итак/значит,das bedeutet,Conjunction,,,,FALSE
 bis hin zu,вплоть до,von hier bis dort,Preposition,,,Dativ,FALSE
 somit,таким образом,aus diesem Grund,Adverb,,,,FALSE
-die Architektur,архитектура,Kunst des Bauens,Nomen,die,,,FALSE
-der Aufsatz,сочинение/статья,geschriebener Text,Nomen,der,,,FALSE
-das Blog,блог,Internet Tagebuch,Nomen,das,,,FALSE
-die Einstellung,настройка/отношение,Meinung oder Position,Nomen,die,,,FALSE
-die Fee,фея,Märchen Figur mit Magie,Nomen,die,,,FALSE
-der Geist,дух/разум,unsichtbares Wesen oder Verstand,Nomen,der,,,FALSE
-die Hexe,ведьма,Frau mit magischen Kräften,Nomen,die,,,FALSE
-der Kommentar,комментарий,Meinung zu etwas,Nomen,der,,,FALSE
-das Pflegeheim,дом престарелых,Haus für alte Menschen,Nomen,das,,,FALSE
-die Zufriedenheit,удовлетворенность,glücklich mit dem was man hat,Nomen,die,,,FALSE
+Architektur,архитектура,Kunst des Bauens,Nomen,die,,,FALSE
+Aufsatz,сочинение/статья,geschriebener Text,Nomen,der,,,FALSE
+Blog,блог,Internet Tagebuch,Nomen,das,,,FALSE
+Einstellung,настройка/отношение,Meinung oder Position,Nomen,die,,,FALSE
+Fee,фея,Märchen Figur mit Magie,Nomen,die,,,FALSE
+Geist,дух/разум,unsichtbares Wesen oder Verstand,Nomen,der,,,FALSE
+Hexe,ведьма,Frau mit magischen Kräften,Nomen,die,,,FALSE
+Kommentar,комментарий,Meinung zu etwas,Nomen,der,,,FALSE
+Pflegeheim,дом престарелых,Haus für alte Menschen,Nomen,das,,,FALSE
+Zufriedenheit,удовлетворенность,glücklich mit dem was man hat,Nomen,die,,,FALSE
 ausprobieren,пробовать,etwas testen,Verb,,,Akkusativ,FALSE
 beeinflussen,влиять,Macht über andere haben,Verb,,,Akkusativ,FALSE
 schwerfallen,тяжело даваться,schwierig sein,Verb,,,Dativ,FALSE
@@ -215,21 +215,21 @@ strebsam,целеустремленный,hart arbeiten für Ziele,Adjektiv,,,,F
 unbeschwert,беззаботный,ohne Sorgen,Adjektiv,,,,FALSE
 uneingeschränkt,неограниченный,ohne Grenzen,Adjektiv,,,,FALSE
 tagsüber,днем,während des Tages,Adverb,,,,FALSE
-die Abenteuerlust,жажда приключений,Wunsch nach Abenteuer,Nomen,die,,,FALSE
-der Anker,якорь,schweres Ding für Schiff,Nomen,der,,,FALSE
-die Arbeitsbelastung,рабочая нагрузка,wie viel Arbeit man hat,Nomen,die,,,FALSE
-der Arbeitsmarkt,рынок труда,wo Jobs gefunden werden,Nomen,der,,,FALSE
-die Flexibilität,гибкость,kann sich ändern,Nomen,die,,,FALSE
-die Generation,поколение,Menschen gleichen Alters,Nomen,die,,,FALSE
-die Identität,идентичность,wer man ist,Nomen,die,,,FALSE
-der Respekt,уважение,andere wichtig finden,Nomen,der,,,FALSE
-die Selbstverwirklichung,самореализация,eigene Ziele erreichen,Nomen,die,,,FALSE
-die Spontaneität,спонтанность,ohne Plan handeln,Nomen,die,,,FALSE
-die Stabilität,стабильность,nicht verändert sich,Nomen,die,,,FALSE
-das Statussymbol,символ статуса,zeigt wie reich man ist,Nomen,das,,,FALSE
-die Stellung,позиция/должность,Platz wo man arbeitet,Nomen,die,,,FALSE
+Abenteuerlust,жажда приключений,Wunsch nach Abenteuer,Nomen,die,,,FALSE
+Anker,якорь,schweres Ding für Schiff,Nomen,der,,,FALSE
+Arbeitsbelastung,рабочая нагрузка,wie viel Arbeit man hat,Nomen,die,,,FALSE
+Arbeitsmarkt,рынок труда,wo Jobs gefunden werden,Nomen,der,,,FALSE
+Flexibilität,гибкость,kann sich ändern,Nomen,die,,,FALSE
+Generation,поколение,Menschen gleichen Alters,Nomen,die,,,FALSE
+Identität,идентичность,wer man ist,Nomen,die,,,FALSE
+Respekt,уважение,andere wichtig finden,Nomen,der,,,FALSE
+Selbstverwirklichung,самореализация,eigene Ziele erreichen,Nomen,die,,,FALSE
+Spontaneität,спонтанность,ohne Plan handeln,Nomen,die,,,FALSE
+Stabilität,стабильность,nicht verändert sich,Nomen,die,,,FALSE
+Statussymbol,символ статуса,zeigt wie reich man ist,Nomen,das,,,FALSE
+Stellung,позиция/должность,Platz wo man arbeitet,Nomen,die,,,FALSE
 ablösen,сменять/отделять,andere Person kommt,Verb,,,Akkusativ,FALSE
-sich abzeichnen,вырисовываться,sichtbar werden,Verb,,,Nominativ,TRUE
+abzeichnen,вырисовываться,sichtbar werden,Verb,,,Nominativ,TRUE
 aussteigen,выходить/бросать,aus Zug gehen oder aufhören,Verb,,aus,Dativ,FALSE
 befreien,освобождать,frei machen,Verb,,von,Dativ,FALSE
 darlegen,излагать,erklären,Verb,,,Akkusativ,FALSE

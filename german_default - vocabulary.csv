@@ -92,7 +92,7 @@ verhindern,предотвращать,etwas aufhalten,Verb,,,Akkusativ,FALSE
 verlernen,разучиваться,Fähigkeit verlieren,Verb,,,Akkusativ,FALSE
 verändern,изменять,anders machen,Verb,,,Akkusativ,FALSE
 trachten,стремиться,etwas ernst wollen,Verb,,nach,Dativ,FALSE
-zutreffen,подходить,genau richtig sein,Verb,,auf,Akkusativ,FALSE
+zutreffen,подходить/применяться/иметь место,richtig oder passend sein,Verb,,auf,Akkusativ,FALSE
 abgewinnen,отвоевывать/получать,durch Mühe bekommen,Verb,,,Dativ,FALSE
 durchblättern,пролистывать,schnell Seiten anschauen,Verb,,,Akkusativ,FALSE
 untertauchen,нырять/прятаться/исчезать,ins Wasser oder versteckt gehen,Verb,,,Akkusativ,
@@ -103,7 +103,7 @@ Bewertung,оценка,Meinung oder Einschätzung,Nomen,die,,Nominativ,FALSE
 spinnen,прясть/сходить с ума,Fäden machen oder verrückt sein,Verb,,,Akkusativ,FALSE
 Vorlauf,предварительный этап,Zeit vor Ereignis,Nomen,der,,Nominativ,FALSE
 trauen,доверять,vertrauen haben/Mut zeigen,Verb,,,Dativ,FALSE
-widmen,посвящать,Zeit oder Aufmerksamkeit für etwas geben,Verb,,,,FALSE
+widmen,посвящать,Zeit oder Aufmerksamkeit für etwas geben,Verb,,,Dativ,FALSE
 bereuen,сожалеть,traurig sein über eine schlechte Entscheidung,Verb,,,,FALSE
 Motto,девиз,kurzer Satz der zeigt was wichtig ist,Nomen,der,,Nominativ,FALSE
 Erkenntnis,осознание/понимание,neues Wissen oder Verstehen,Nomen,die,,Nominativ,FALSE
@@ -116,10 +116,8 @@ eher,скорее/больше,mehr als etwas anderes,Adverb,,,,FALSE
 Gegenzug,ответный ход,Reaktion auf eine Aktion,Nomen,der,,Dativ,FALSE
 umgehen,обходить,einen anderen Weg nehmen,Verb,,,,FALSE
 umgehen,обращаться,arbeiten oder leben mit etwas,Verb,,mit,Dativ,FALSE
-unterstellen,предполагать,glauben ohne Beweis,Verb,,,,FALSE
-unterstellen,подчинять,unter Kontrolle stellen,Verb,,,,FALSE
+unterstellen,предполагать/подчинять,glauben ohne Beweis,Verb,,,,FALSE
 widerspiegeln,отражать,zeigen wie in einem Spiegel,Verb,,,,FALSE
-überfordern,перегружать,zu viel verlangen,Verb,,,,FALSE
 Einfluss,влияние,Macht etwas zu ändern,Nomen,der,auf,Akkusativ,FALSE
 Förderung,поддержка/содействие,Hilfe für Entwicklung,Nomen,die,,Nominativ,FALSE
 Forderung,требование,starker Wunsch nach etwas,Nomen,die,,Nominativ,FALSE
@@ -139,19 +137,17 @@ abwägen,взвешивать/обдумывать,gut überlegen vor Entscheidu
 Eindruck,впечатление,Gefühl über Person oder Sache,Nomen,der,,Nominativ,FALSE
 Bezug,отношение/связь,Verbindung zwischen zwei Sachen,Nomen,der,auf,Akkusativ,FALSE
 vorteilhaft,выгодный/полезный,gut für eigene Situation,Adjektiv,,,,FALSE
-herschieben,подталкивать сюда,etwas zu sich bewegen,Verb,,,,FALSE
+herschieben,подталкивать/толкать/двигать,etwas mit Kraft an einen anderen Ort bewegen,Verb,,,Akkusativ,FALSE
 nachholen,наверстывать,später machen was man vergessen hat,Verb,,,,FALSE
 widerstreben,противиться,nicht wollen oder mögen,Verb,,,,FALSE
 Au-pair,гувернантка/помощница,junge Person die im Ausland arbeitet,Nomen,das,,Nominativ,FALSE
 ausdrücken,выражать,Gedanken oder Gefühle zeigen,Verb,,,,FALSE
-herschieben,толкать/двигать,etwas mit Kraft an einen anderen Ort bewegen,Verb,,,Akkusativ,FALSE
 offenhalten,быть на чеку,etwas nicht schließen oder verschließen,Verb,,,Akkusativ,FALSE
 Reihenfolge,последовательность,die Art wie Dinge nacheinander kommen,Nomen,die,,Nominativ,FALSE
 entfalten,развиваться/раскрываться,sich selbst entwickeln,Verb,,,Akkusativ,TRUE
 Quantität,количество,die Menge von etwas,Nomen,die,,Nominativ,FALSE
 Qualität,качество,wie gut etwas ist,Nomen,die,,Nominativ,FALSE
 Unterschied,различие,wenn zwei Dinge nicht gleich sind,Nomen,der,,Nominativ,FALSE
-zutreffen,подходить/применяться/иметь место,richtig oder passend sein,Verb,,auf,Akkusativ,FALSE
 nachhaltig,устойчивый,für lange Zeit gut für die Umwelt,Adjektiv,,,,FALSE
 Riese,великан/гигант,sehr großer Mensch oder sehr große Sache,Nomen,der,,Nominativ,FALSE
 Riesenthema,огромная тема,sehr wichtiges und großes Thema,Nomen,das,,Nominativ,FALSE
@@ -174,3 +170,77 @@ Umfrage,опрос,wenn man viele Menschen etwas fragt,Nomen,die,,Nominativ,FALS
 wildfremd,совершенно незнакомый,völlig unbekannt,Adjektiv,,,,FALSE
 überschnappen,заедать/сломаться,verrückt werden oder zu weit gehen,Verb,,,Nominativ,FALSE
 annehmen,принимать/предполагать,etwas bekommen oder glauben dass etwas wahr ist,Verb,,,Akkusativ,FALSE
+jeweilige,соответствующий,das was gerade gemeint ist,Adjektiv,,,,FALSE
+die Gesellschaft,общество,alle Menschen zusammen,Nomen,die,,,FALSE
+übertragen,передавать/переносить,etwas zu einem anderen bringen,Verb,,auf,Akkusativ,FALSE
+unter anderem,среди прочего,auch noch andere Dinge,Other,,,,FALSE
+die Verwirklichung,осуществление,etwas real machen,Nomen,die,,,FALSE
+deutlich,ясно/отчетливо,sehr klar,Adverb,,,,FALSE
+erscheinen,появляться/казаться,sichtbar werden oder scheinen,Verb,,,Nominativ,FALSE
+die Bedingungen,условия,was nötig ist für etwas,Nomen,die,,,FALSE
+unbestritten,неоспоримый,alle sind damit einverstanden,Adjektiv,,,,FALSE
+bereisen,путешествовать по,durch ein Land fahren,Verb,,,Akkusativ,FALSE
+zeichnen,рисовать/характеризовать,mit Stift Bilder machen,Verb,,,Akkusativ,FALSE
+der Rahmen,рамка/рамки,was um etwas herum ist,Nomen,der,,,FALSE
+nötigen,принуждать,jemanden zwingen,Verb,,,Akkusativ,FALSE
+verzichten,отказываться,etwas nicht nehmen,Verb,,auf,Akkusativ,FALSE
+die Unterhaltung,развлечение/разговор,Spaß oder Gespräch,Nomen,die,,,FALSE
+der Bruch,перелом/разрыв,wenn etwas kaputt geht,Nomen,der,,,FALSE
+kehren,подметать/поворачивать,mit Besen sauber machen,Verb,,,Akkusativ,FALSE
+umkehren,поворачивать назад,in andere Richtung gehen,Verb,,,Akkusativ,FALSE
+der Geselle,подмастерье,Arbeiter der lernt,Nomen,der,,,FALSE
+wandeln,изменять/гулять,sich ändern oder gehen,Verb,,in,Akkusativ,TRUE
+während,во время/пока,in der Zeit wenn etwas passiert,Preposition,,,Genitiv,FALSE
+also,итак/значит,das bedeutet,Conjunction,,,,FALSE
+bis hin zu,вплоть до,von hier bis dort,Preposition,,,Dativ,FALSE
+somit,таким образом,aus diesem Grund,Adverb,,,,FALSE
+die Architektur,архитектура,Kunst des Bauens,Nomen,die,,,FALSE
+der Aufsatz,сочинение/статья,geschriebener Text,Nomen,der,,,FALSE
+das Blog,блог,Internet Tagebuch,Nomen,das,,,FALSE
+die Einstellung,настройка/отношение,Meinung oder Position,Nomen,die,,,FALSE
+die Fee,фея,Märchen Figur mit Magie,Nomen,die,,,FALSE
+der Geist,дух/разум,unsichtbares Wesen oder Verstand,Nomen,der,,,FALSE
+die Hexe,ведьма,Frau mit magischen Kräften,Nomen,die,,,FALSE
+der Kommentar,комментарий,Meinung zu etwas,Nomen,der,,,FALSE
+das Pflegeheim,дом престарелых,Haus für alte Menschen,Nomen,das,,,FALSE
+die Zufriedenheit,удовлетворенность,glücklich mit dem was man hat,Nomen,die,,,FALSE
+ausprobieren,пробовать,etwas testen,Verb,,,Akkusativ,FALSE
+beeinflussen,влиять,Macht über andere haben,Verb,,,Akkusativ,FALSE
+schwerfallen,тяжело даваться,schwierig sein,Verb,,,Dativ,FALSE
+wertschätzen,ценить,wichtig finden,Verb,,,Akkusativ,FALSE
+sesshaft,оседлый,an einem Ort leben,Adjektiv,,,,FALSE
+strebsam,целеустремленный,hart arbeiten für Ziele,Adjektiv,,,,FALSE
+überfordert,перегруженный,zu viel zu tun haben,Adjektiv,,,,FALSE
+übertragbar,передаваемый,kann weitergegeben werden,Adjektiv,,,,FALSE
+unbeschwert,беззаботный,ohne Sorgen,Adjektiv,,,,FALSE
+uneingeschränkt,неограниченный,ohne Grenzen,Adjektiv,,,,FALSE
+tagsüber,днем,während des Tages,Adverb,,,,FALSE
+die Abenteuerlust,жажда приключений,Wunsch nach Abenteuer,Nomen,die,,,FALSE
+der Anker,якорь,schweres Ding für Schiff,Nomen,der,,,FALSE
+die Arbeitsbelastung,рабочая нагрузка,wie viel Arbeit man hat,Nomen,die,,,FALSE
+der Arbeitsmarkt,рынок труда,wo Jobs gefunden werden,Nomen,der,,,FALSE
+die Flexibilität,гибкость,kann sich ändern,Nomen,die,,,FALSE
+die Generation,поколение,Menschen gleichen Alters,Nomen,die,,,FALSE
+die Identität,идентичность,wer man ist,Nomen,die,,,FALSE
+der Respekt,уважение,andere wichtig finden,Nomen,der,,,FALSE
+die Selbstverwirklichung,самореализация,eigene Ziele erreichen,Nomen,die,,,FALSE
+die Spontaneität,спонтанность,ohne Plan handeln,Nomen,die,,,FALSE
+die Stabilität,стабильность,nicht verändert sich,Nomen,die,,,FALSE
+das Statussymbol,символ статуса,zeigt wie reich man ist,Nomen,das,,,FALSE
+die Stellung,позиция/должность,Platz wo man arbeitet,Nomen,die,,,FALSE
+ablösen,сменять/отделять,andere Person kommt,Verb,,,Akkusativ,FALSE
+sich abzeichnen,вырисовываться,sichtbar werden,Verb,,,Nominativ,TRUE
+aussteigen,выходить/бросать,aus Zug gehen oder aufhören,Verb,,aus,Dativ,FALSE
+befreien,освобождать,frei machen,Verb,,von,Dativ,FALSE
+darlegen,излагать,erklären,Verb,,,Akkusativ,FALSE
+ergreifen,хватать/использовать,nehmen oder Chance nutzen,Verb,,,Akkusativ,FALSE
+gestehen,признавать,Wahrheit sagen,Verb,,,Akkusativ,FALSE
+wiederbeleben,оживлять,wieder lebendig machen,Verb,,,Akkusativ,FALSE
+gegenseitig,взаимный,beide machen das gleiche,Adjektiv,,,,FALSE
+individuell,индивидуальный,nur für eine Person,Adjektiv,,,,FALSE
+liberal,либеральный,Freiheit ist wichtig,Adjektiv,,,,FALSE
+naturverbunden,связанный с природой,liebt die Natur,Adjektiv,,,,FALSE
+progressiv,прогрессивный,will Veränderung,Adjektiv,,,,FALSE
+unabhängig,независимый,braucht keine Hilfe,Adjektiv,,,,FALSE
+unberechenbar,непредсказуемый,kann nicht vorhersagen,Adjektiv,,,,FALSE
+vermutlich,вероятно,wahrscheinlich,Adverb,,,,FALSE

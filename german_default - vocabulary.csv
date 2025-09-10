@@ -228,7 +228,7 @@ Stabilität,стабильность,nicht verändert sich,Nomen,die,,,FALSE
 Statussymbol,символ статуса,zeigt wie reich man ist,Nomen,das,,,FALSE
 Stellung,позиция/должность,Platz wo man arbeitet,Nomen,die,,,FALSE
 ablösen,сменять/отделять,andere Person kommt,Verb,,,Akkusativ,FALSE
-sich abzeichnen,вырисовываться,sichtbar werden,Verb,,,Nominativ,TRUE
+abzeichnen,вырисовываться,sichtbar werden,Verb,,,Nominativ,TRUE
 aussteigen,выходить/бросать,aus Zug gehen oder aufhören,Verb,,aus,Dativ,FALSE
 befreien,освобождать,frei machen,Verb,,von,Dativ,FALSE
 darlegen,излагать,erklären,Verb,,,Akkusativ,FALSE
@@ -281,9 +281,44 @@ Eigentümer,владелец/собственник,Person die etwas besitzt,Nom
 Prokura,прокура,Recht für eine Firma zu handeln,Nomen,die,,Nominativ,FALSE
 Vollmacht,доверенность,Recht für andere Person zu handeln,Nomen,die,,Nominativ,FALSE
 verschlechtern,ухудшать,schlechter machen,Verb,,,Akkusativ,FALSE
-sich verschlechtern,ухудшаться,schlechter werden,Verb,,,Nominativ,TRUE
+verschlechtern,ухудшаться,schlechter werden,Verb,,,Nominativ,TRUE
 anerkannt,признанный,offiziell akzeptiert,Adjektiv,,,Nominativ,FALSE
 fest,твердый/крепкий,nicht weich oder nicht beweglich,Adjektiv,,,Nominativ,FALSE
 fest,крепко/уверенно,stark und sicher,Adverb,,,Nominativ,FALSE
 inzwischen,тем временем,in der Zeit zwischen zwei Momenten,Adverb,,,Nominativ,FALSE
 jedenfalls,в любом случае,sicher oder auf jeden Fall,Adverb,,,Nominativ,FALSE
+verfehlen,промахиваться/не попадать,nicht treffen oder nicht erreichen,Verb,,,,FALSE
+Sinn,смысл/чувство,Bedeutung oder Gefühl,Nomen,der,,,FALSE
+bewusst,сознательный,mit Wissen und Absicht,Adjektiv,,,,FALSE
+Zelt,палатка,tragbares Haus für Camping,Nomen,das,,,FALSE
+abzeichnen,вырисовываться/намечаться,sichtbar werden oder sich zeigen,Verb,,sich,,TRUE
+erkunden,исследовать,neue Orte oder Dinge entdecken,Verb,,,Akkusativ,FALSE
+verzichten,отказываться,etwas nicht nehmen oder nicht machen,Verb,,auf,Akkusativ,FALSE
+je,чем,für Vergleiche verwendet,Adverb,,,,FALSE
+Menge,количество/толпа,große Anzahl von etwas,Nomen,die,,,FALSE
+keineswegs,ни в коем случае,absolut nicht,Adverb,,,,FALSE
+unentbehrlich,незаменимый,sehr wichtig und nötig,Adjektiv,,,,FALSE
+Veranstaltungsort,место проведения,Platz wo etwas stattfindet,Nomen,der,,,FALSE
+durchbrechen,прорывать/нарушать,durch etwas hindurchgehen,Verb,,,Akkusativ,FALSE
+geraten,попадать/оказываться,in eine Situation kommen,Verb,,in,Akkusativ,FALSE
+ausbreiten,распространять,größer oder weiter machen,Verb,,,Akkusativ,FALSE
+ausbreiten,распространяться,größer werden,Verb,,über,,TRUE
+eingebunden,включенный/вовлеченный,Teil von etwas sein,Adjektiv,,,,FALSE
+Lücken,пробелы/щели,leere Stellen zwischen Dingen,Nomen,die,,,FALSE
+Vernetzung,сетевое взаимодействие,Verbindung zwischen verschiedenen Teilen,Nomen,die,,,FALSE
+Betreuung,уход/присмотр,sich um jemanden kümmern,Nomen,die,,,FALSE
+Tropenholz,тропическая древесина,Holz aus warmen Ländern,Nomen,das,,,FALSE
+Gefragte,востребованное,etwas was viele Menschen wollen,Nomen,das,,,FALSE
+Fragliche,сомнительное/спорное,nicht sicher oder zweifelhaft,Adjektiv,,,,FALSE
+überhaupt,вообще/совсем,allgemein oder gar nicht,Adverb,,,,FALSE
+angebaut,выращенный/построенный,gepflanzt oder gebaut,Adjektiv,,,,FALSE
+verwöhnen,баловать,jemandem viele schöne Dinge geben,Verb,,,Akkusativ,FALSE
+heutzutage,в наши дни,in der heutigen Zeit,Adverb,,,,FALSE
+zeichnen,рисовать/отмечать,Bilder mit Stift machen,Verb,,,Akkusativ,FALSE
+lösen,решать/растворять,Probleme beenden oder etwas auflösen,Verb,,,Akkusativ,FALSE
+Aufwand,затраты/усилия,Zeit und Energie die man braucht,Nomen,der,,,FALSE
+Landwirt,фермер,Person die auf dem Bauernhof arbeitet,Nomen,der,,,FALSE
+Wettbewerb,конкуренция/соревнование,Kampf um das beste Ergebnis,Nomen,der,,,FALSE
+Vielzahl,множество,sehr viele verschiedene Dinge,Nomen,die,,,FALSE
+Vertreter,представитель,Person die für andere spricht,Nomen,der,,,FALSE
+eindeutig,однозначный/ясный,ganz klar und sicher,Adjektiv,,,,FALSE

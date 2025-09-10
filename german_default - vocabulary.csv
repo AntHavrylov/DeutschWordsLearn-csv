@@ -193,16 +193,16 @@ während,во время/пока,in der Zeit wenn etwas passiert,Preposition,,,
 also,итак/значит,das bedeutet,Conjunction,,,,FALSE
 bis hin zu,вплоть до,von hier bis dort,Preposition,,,Dativ,FALSE
 somit,таким образом,aus diesem Grund,Adverb,,,,FALSE
-die Architektur,архитектура,Kunst des Bauens,Nomen,die,,,FALSE
-der Aufsatz,сочинение/статья,geschriebener Text,Nomen,der,,,FALSE
-das Blog,блог,Internet Tagebuch,Nomen,das,,,FALSE
-die Einstellung,настройка/отношение,Meinung oder Position,Nomen,die,,,FALSE
-die Fee,фея,Märchen Figur mit Magie,Nomen,die,,,FALSE
-der Geist,дух/разум,unsichtbares Wesen oder Verstand,Nomen,der,,,FALSE
-die Hexe,ведьма,Frau mit magischen Kräften,Nomen,die,,,FALSE
-der Kommentar,комментарий,Meinung zu etwas,Nomen,der,,,FALSE
-das Pflegeheim,дом престарелых,Haus für alte Menschen,Nomen,das,,,FALSE
-die Zufriedenheit,удовлетворенность,glücklich mit dem was man hat,Nomen,die,,,FALSE
+Architektur,архитектура,Kunst des Bauens,Nomen,die,,,FALSE
+Aufsatz,сочинение/статья,geschriebener Text,Nomen,der,,,FALSE
+Blog,блог,Internet Tagebuch,Nomen,das,,,FALSE
+Einstellung,настройка/отношение,Meinung oder Position,Nomen,die,,,FALSE
+Fee,фея,Märchen Figur mit Magie,Nomen,die,,,FALSE
+Geist,дух/разум,unsichtbares Wesen oder Verstand,Nomen,der,,,FALSE
+Hexe,ведьма,Frau mit magischen Kräften,Nomen,die,,,FALSE
+Kommentar,комментарий,Meinung zu etwas,Nomen,der,,,FALSE
+Pflegeheim,дом престарелых,Haus für alte Menschen,Nomen,das,,,FALSE
+Zufriedenheit,удовлетворенность,glücklich mit dem was man hat,Nomen,die,,,FALSE
 ausprobieren,пробовать,etwas testen,Verb,,,Akkusativ,FALSE
 beeinflussen,влиять,Macht über andere haben,Verb,,,Akkusativ,FALSE
 schwerfallen,тяжело даваться,schwierig sein,Verb,,,Dativ,FALSE
@@ -214,19 +214,19 @@ strebsam,целеустремленный,hart arbeiten für Ziele,Adjektiv,,,,F
 unbeschwert,беззаботный,ohne Sorgen,Adjektiv,,,,FALSE
 uneingeschränkt,неограниченный,ohne Grenzen,Adjektiv,,,,FALSE
 tagsüber,днем,während des Tages,Adverb,,,,FALSE
-die Abenteuerlust,жажда приключений,Wunsch nach Abenteuer,Nomen,die,,,FALSE
-der Anker,якорь,schweres Ding für Schiff,Nomen,der,,,FALSE
-die Arbeitsbelastung,рабочая нагрузка,wie viel Arbeit man hat,Nomen,die,,,FALSE
-der Arbeitsmarkt,рынок труда,wo Jobs gefunden werden,Nomen,der,,,FALSE
-die Flexibilität,гибкость,kann sich ändern,Nomen,die,,,FALSE
-die Generation,поколение,Menschen gleichen Alters,Nomen,die,,,FALSE
-die Identität,идентичность,wer man ist,Nomen,die,,,FALSE
-der Respekt,уважение,andere wichtig finden,Nomen,der,,,FALSE
-die Selbstverwirklichung,самореализация,eigene Ziele erreichen,Nomen,die,,,FALSE
-die Spontaneität,спонтанность,ohne Plan handeln,Nomen,die,,,FALSE
-die Stabilität,стабильность,nicht verändert sich,Nomen,die,,,FALSE
-das Statussymbol,символ статуса,zeigt wie reich man ist,Nomen,das,,,FALSE
-die Stellung,позиция/должность,Platz wo man arbeitet,Nomen,die,,,FALSE
+Abenteuerlust,жажда приключений,Wunsch nach Abenteuer,Nomen,die,,,FALSE
+Anker,якорь,schweres Ding für Schiff,Nomen,der,,,FALSE
+Arbeitsbelastung,рабочая нагрузка,wie viel Arbeit man hat,Nomen,die,,,FALSE
+Arbeitsmarkt,рынок труда,wo Jobs gefunden werden,Nomen,der,,,FALSE
+Flexibilität,гибкость,kann sich ändern,Nomen,die,,,FALSE
+Generation,поколение,Menschen gleichen Alters,Nomen,die,,,FALSE
+Identität,идентичность,wer man ist,Nomen,die,,,FALSE
+Respekt,уважение,andere wichtig finden,Nomen,der,,,FALSE
+Selbstverwirklichung,самореализация,eigene Ziele erreichen,Nomen,die,,,FALSE
+Spontaneität,спонтанность,ohne Plan handeln,Nomen,die,,,FALSE
+Stabilität,стабильность,nicht verändert sich,Nomen,die,,,FALSE
+Statussymbol,символ статуса,zeigt wie reich man ist,Nomen,das,,,FALSE
+Stellung,позиция/должность,Platz wo man arbeitet,Nomen,die,,,FALSE
 ablösen,сменять/отделять,andere Person kommt,Verb,,,Akkusativ,FALSE
 sich abzeichnen,вырисовываться,sichtbar werden,Verb,,,Nominativ,TRUE
 aussteigen,выходить/бросать,aus Zug gehen oder aufhören,Verb,,aus,Dativ,FALSE
@@ -258,3 +258,32 @@ untersuchen,исследовать/изучать,genau prüfen oder schauen,Ver
 nebenbei,между прочим/попутно,zusätzlich zu etwas anderem,Adverb,,,,FALSE
 händeringend,отчаянно/срочно нужный,mit großer Sorge suchen,Adverb,,,,FALSE
 veranstalten,организовывать/устраивать,ein Event oder Fest machen,Verb,,,Akkusativ,FALSE
+platt,плоский/банальный,flach oder ohne Tiefe,Adjektiv,,,Nominativ,FALSE
+Ware,товар,Gegenstände die verkauft werden,Nomen,die,,Nominativ,FALSE
+erläutern,объяснять/разъяснять,etwas genau erklären,Verb,,,Akkusativ,FALSE
+Betreff,тема/предмет,Thema von einem Brief oder Email,Nomen,der,,Nominativ,FALSE
+Andere,другие,nicht diese Personen oder Dinge,Pronoun,,,Nominativ,FALSE
+Einleitung,введение,der erste Teil von einem Text,Nomen,die,,Nominativ,FALSE
+verringern,уменьшать/сокращать,kleiner oder weniger machen,Verb,,,Akkusativ,FALSE
+einfließen,влиять/поступать,in etwas hinein kommen und Teil werden,Verb,,in,Akkusativ,FALSE
+solche,такие,diese Art von Dingen,Pronoun,,,Nominativ,FALSE
+plädieren,выступать/призывать,für etwas sprechen oder bitten,Verb,,für,Akkusativ,FALSE
+Unterbewusstsein,подсознание,Teil vom Denken der nicht bewusst ist,Nomen,das,,Nominativ,FALSE
+Nachhinein,последующий период,die Zeit die später kommt,Nomen,der,in,Dativ,FALSE
+zugreifen,хватать/пользоваться,schnell nehmen oder eine Chance nutzen,Verb,,auf,Akkusativ,FALSE
+weitaus,намного/гораздо,sehr viel mehr,Adverb,,,Nominativ,FALSE
+zuwandern,иммигрировать,in ein Land kommen um zu leben,Verb,,in,Akkusativ,FALSE
+fassen,хватать/понимать,mit der Hand nehmen oder verstehen,Verb,,,Akkusativ,FALSE
+fassen,содержать/вмещать,Platz haben für etwas,Verb,,,Akkusativ,FALSE
+fassen,принимать решение,eine Entscheidung machen,Verb,,,Akkusativ,FALSE
+vielfältig,разнообразный,sehr verschieden und reich,Adjektiv,,,Nominativ,FALSE
+Eigentümer,владелец/собственник,Person die etwas besitzt,Nomen,der,,Nominativ,FALSE
+Prokura,прокура,Recht für eine Firma zu handeln,Nomen,die,,Nominativ,FALSE
+Vollmacht,доверенность,Recht für andere Person zu handeln,Nomen,die,,Nominativ,FALSE
+verschlechtern,ухудшать,schlechter machen,Verb,,,Akkusativ,FALSE
+sich verschlechtern,ухудшаться,schlechter werden,Verb,,,Nominativ,TRUE
+anerkannt,признанный,offiziell akzeptiert,Adjektiv,,,Nominativ,FALSE
+fest,твердый/крепкий,nicht weich oder nicht beweglich,Adjektiv,,,Nominativ,FALSE
+fest,крепко/уверенно,stark und sicher,Adverb,,,Nominativ,FALSE
+inzwischen,тем временем,in der Zeit zwischen zwei Momenten,Adverb,,,Nominativ,FALSE
+jedenfalls,в любом случае,sicher oder auf jeden Fall,Adverb,,,Nominativ,FALSE

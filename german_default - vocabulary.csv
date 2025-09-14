@@ -231,7 +231,7 @@ ablösen,сменять/отделять,andere Person kommt,Verb,,,Akkusativ,FA
 abzeichnen,вырисовываться,sichtbar werden,Verb,,,Nominativ,TRUE
 aussteigen,выходить/бросать,aus Zug gehen oder aufhören,Verb,,aus,Dativ,FALSE
 befreien,освобождать,frei machen,Verb,,von,Dativ,FALSE
-darlegen,излагать,erklären,Verb,,,Akkusativ,FALSE
+darlegen,излагать/считать,erklären,Verb,,,Akkusativ,FALSE
 ergreifen,хватать/использовать,nehmen oder Chance nutzen,Verb,,,Akkusativ,FALSE
 gestehen,признавать,Wahrheit sagen,Verb,,,Akkusativ,FALSE
 wiederbeleben,оживлять,wieder lebendig machen,Verb,,,Akkusativ,FALSE
@@ -250,8 +250,6 @@ Bereich,область/сфера,ein Teil von etwas größerem,Nomen,der,,,FALS
 vernachlässigen,пренебрегать/запускать,nicht gut genug machen,Verb,,,Akkusativ,FALSE
 bewerten,оценивать/судить,sagen wie gut etwas ist,Verb,,,Akkusativ,FALSE
 voranstellen,ставить впереди,etwas an den ersten Platz setzen,Verb,,,Akkusativ,FALSE
-zeichnen,рисовать/сделать/изобразить,Bilder mit Stift machen,Verb,,,Akkusativ,FALSE
-zeichnen,отмечать/характеризовать,etwas besonders machen,Verb,,,Akkusativ,FALSE
 aufpassen,быть осторожным/присматривать,vorsichtig sein,Verb,,auf,Akkusativ,FALSE
 rutschen,скользить/продвинуться,schnell über eine Fläche bewegen,Verb,,,,FALSE
 untersuchen,исследовать/изучать,genau prüfen oder schauen,Verb,,,Akkusativ,FALSE
@@ -273,28 +271,21 @@ Nachhinein,последующий период,die Zeit die später kommt,Nomen,
 zugreifen,хватать/пользоваться,schnell nehmen oder eine Chance nutzen,Verb,,auf,Akkusativ,FALSE
 weitaus,намного/гораздо,sehr viel mehr,Adverb,,,Nominativ,FALSE
 zuwandern,иммигрировать,in ein Land kommen um zu leben,Verb,,in,Akkusativ,FALSE
-fassen,хватать/понимать,mit der Hand nehmen oder verstehen,Verb,,,Akkusativ,FALSE
-fassen,содержать/вмещать,Platz haben für etwas,Verb,,,Akkusativ,FALSE
-fassen,принимать решение,eine Entscheidung machen,Verb,,,Akkusativ,FALSE
+fassen,хватать/понимать/вмещать,mit der Hand nehmen oder verstehen,Verb,,,Akkusativ,FALSE
 vielfältig,разнообразный,sehr verschieden und reich,Adjektiv,,,Nominativ,FALSE
 Eigentümer,владелец/собственник,Person die etwas besitzt,Nomen,der,,Nominativ,FALSE
 Prokura,прокура,Recht für eine Firma zu handeln,Nomen,die,,Nominativ,FALSE
 Vollmacht,доверенность,Recht für andere Person zu handeln,Nomen,die,,Nominativ,FALSE
-verschlechtern,ухудшать,schlechter machen,Verb,,,Akkusativ,FALSE
 verschlechtern,ухудшаться,schlechter werden,Verb,,,Nominativ,TRUE
 anerkannt,признанный,offiziell akzeptiert,Adjektiv,,,Nominativ,FALSE
 fest,твердый/крепкий,nicht weich oder nicht beweglich,Adjektiv,,,Nominativ,FALSE
-fest,крепко/уверенно,stark und sicher,Adverb,,,Nominativ,FALSE
 inzwischen,тем временем,in der Zeit zwischen zwei Momenten,Adverb,,,Nominativ,FALSE
 jedenfalls,в любом случае,sicher oder auf jeden Fall,Adverb,,,Nominativ,FALSE
 verfehlen,промахиваться/не попадать,nicht treffen oder nicht erreichen,Verb,,,,FALSE
 Sinn,смысл/чувство,Bedeutung oder Gefühl,Nomen,der,,,FALSE
 bewusst,сознательный,mit Wissen und Absicht,Adjektiv,,,,FALSE
 Zelt,палатка,tragbares Haus für Camping,Nomen,das,,,FALSE
-abzeichnen,вырисовываться/намечаться,sichtbar werden oder sich zeigen,Verb,,sich,,TRUE
 erkunden,исследовать,neue Orte oder Dinge entdecken,Verb,,,Akkusativ,FALSE
-verzichten,отказываться,etwas nicht nehmen oder nicht machen,Verb,,auf,Akkusativ,FALSE
-je,чем,für Vergleiche verwendet,Adverb,,,,FALSE
 Menge,количество/толпа,große Anzahl von etwas,Nomen,die,,,FALSE
 keineswegs,ни в коем случае,absolut nicht,Adverb,,,,FALSE
 unentbehrlich,незаменимый,sehr wichtig und nötig,Adjektiv,,,,FALSE
@@ -322,3 +313,35 @@ Wettbewerb,конкуренция/соревнование,Kampf um das beste Er
 Vielzahl,множество,sehr viele verschiedene Dinge,Nomen,die,,,FALSE
 Vertreter,представитель,Person die für andere spricht,Nomen,der,,,FALSE
 eindeutig,однозначный/ясный,ganz klar und sicher,Adjektiv,,,,FALSE
+einlegen,вставлять/делать перерыв,etwas hineinlegen oder Pause machen,Verb,,in,Akkusativ,FALSE
+heilig,святой,sehr wichtig für Religion,Adjektiv,,,,FALSE
+durchsetzen,добиваться/пробиваться,sein Ziel erreichen oder durch etwas gehen,Verb,,,Akkusativ,TRUE
+Stelle,место/должность,Platz oder Arbeitsplatz,Nomen,die,,Nominativ,FALSE
+Anschluss,подключение/связь,Verbindung zu etwas,Nomen,der,,Nominativ,FALSE
+Bescheid,уведомление/известие,Information über etwas,Nomen,der,,Nominativ,FALSE
+Herz,сердце,Organ das Blut pumpt,Nomen,das,,Nominativ,FALSE
+lahm,хромой/скучный,kann nicht gut gehen oder langweilig,Adjektiv,,,,FALSE
+Ente,утка,Wasservogel mit breitem Schnabel,Nomen,die,,Nominativ,FALSE
+belastbar,выносливый,kann viel Arbeit oder Stress haben,Adjektiv,,,,FALSE
+unbelastbar,невыносливый,kann nicht viel Stress haben,Adjektiv,,,,FALSE
+absehbar,предвидимый,man kann es erwarten,Adjektiv,,,,FALSE
+zahlreich,многочисленный,sehr viele,Adjektiv,,,,FALSE
+überflüssig,излишний,nicht nötig,Adjektiv,,,,FALSE
+ausreichend,достаточный,genug für etwas,Adjektiv,,,,FALSE
+inspirierend,вдохновляющий,gibt neue Ideen,Adjektiv,,,,FALSE
+abhängig,зависимый,braucht etwas oder jemanden,Adjektiv,,von,Dativ,FALSE
+anstreben,стремиться,ein Ziel haben und dafür arbeiten,Verb,,,Akkusativ,FALSE
+heben,поднимать,etwas nach oben bewegen,Verb,,,Akkusativ,FALSE
+umfahren,объезжать,einen anderen Weg nehmen,Verb,,,Akkusativ,FALSE
+abraten,отговаривать,sagen dass etwas nicht gut ist,Verb,,von,Dativ,FALSE
+nachgehen,следовать/заниматься,hinter jemandem gehen oder etwas machen,Verb,,,Dativ,FALSE
+beauftragen,поручать,jemandem eine Aufgabe geben,Verb,,mit,Dativ,FALSE
+begrenzen,ограничивать,Grenzen setzen,Verb,,,Akkusativ,FALSE
+gestalten,формировать/оформлять,Form oder Aussehen geben,Verb,,,Akkusativ,FALSE
+bemühen,стараться,hart arbeiten für etwas,Verb,,,Akkusativ,TRUE
+umgehen,обращаться,mit etwas arbeiten,Verb,,mit,Dativ,FALSE
+reinfallen,попадаться,schlecht getäuscht werden,Verb,,,,FALSE
+existieren,существовать,da sein oder leben,Verb,,,,FALSE
+betreten,входить,in einen Raum gehen,Verb,,,Akkusativ,FALSE
+sorgen,заботиться/беспокоиться,sich um jemanden kümmern oder Angst haben,Verb,,für,Akkusativ,FALSE
+beteiligen,участвовать,Teil von etwas sein,Verb,,an,Dativ,TRUE

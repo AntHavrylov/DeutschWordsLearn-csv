@@ -345,3 +345,63 @@ existieren,существовать,da sein oder leben,Verb,,,,FALSE
 betreten,входить,in einen Raum gehen,Verb,,,Akkusativ,FALSE
 sorgen,заботиться/беспокоиться,sich um jemanden kümmern oder Angst haben,Verb,,für,Akkusativ,FALSE
 beteiligen,участвовать,Teil von etwas sein,Verb,,an,Dativ,TRUE
+anspruchsvoll,требовательный,hat hohe Erwartungen und Standards,Adjektiv,,,Nominativ,FALSE
+begeistert,восторженный,sehr positiv und voller Freude für etwas,Adjektiv,,von,Dativ,FALSE
+Euphorie,эйфория,sehr starkes Glücksgefühl,Nomen,die,,,FALSE
+euphorisch,эйфоричный,in sehr guter Stimmung und voller Freude,Adjektiv,,,Nominativ,FALSE
+impulsiv,импульсивный,handelt schnell ohne nachzudenken,Adjektiv,,,Nominativ,FALSE
+interessiert,заинтересованный,will mehr wissen oder lernen,Adjektiv,,an,Dativ,FALSE
+Mut,смелость,keine Angst vor schweren Situationen,Nomen,der,,,FALSE
+mutig,смелый,hat keine Angst und ist stark,Adjektiv,,,Nominativ,FALSE
+gelassen,спокойный,ruhig und nicht nervös,Adjektiv,,,Nominativ,FALSE
+erläutern,объяснять,etwas genau und klar erklären,Verb,,,Akkusativ,FALSE
+Faulheit,лень,will nicht arbeiten oder aktiv sein,Nomen,die,,,FALSE
+Fleiß,прилежание,arbeitet viel und gut,Nomen,der,,,FALSE
+Gelassenheit,спокойствие,ruhiger Zustand ohne Stress,Nomen,die,,,FALSE
+unbekümmert,беззаботный,ohne Sorgen und frei,Adjektiv,,,Nominativ,FALSE
+fröhlich,веселый,ist glücklich und lacht gerne,Adjektiv,,,Nominativ,FALSE
+Freude,радость,gutes Gefühl wenn etwas schön ist,Nomen,die,,,FALSE
+Fröhlichkeit,веселье,Zustand wenn man glücklich ist,Nomen,die,,,FALSE
+Spontanität,спонтанность,macht Dinge ohne lange Planung,Nomen,die,,,FALSE
+Neugierde,любопытство,will neue Dinge wissen und entdecken,Nomen,die,,,FALSE
+Anspruch,требование,will etwas bekommen oder erreichen,Nomen,der,,Akkusativ,FALSE
+Bequemheit,удобство,ist einfach und ohne Probleme,Nomen,die,,,FALSE
+Kompliziertheit,сложность,ist schwer zu verstehen oder machen,Nomen,die,,,FALSE
+Glück,счастье,sehr gutes Gefühl im Leben,Nomen,das,,,FALSE
+Begeisterung,восторг,sehr starke positive Emotion,Nomen,die,,,FALSE
+Paddler,гребец,Person die mit Paddel Boot fährt,Nomen,der,,,FALSE
+Pilgerreise,паломничество,religiöse Reise zu heiligem Ort,Nomen,die,,,FALSE
+Angel,удочка,Gerät zum Fische fangen,Nomen,die,,,FALSE
+ermitteln,выяснять,Informationen suchen und finden,Verb,,,Akkusativ,FALSE
+Bericht,отчет,Text über Ereignisse oder Fakten,Nomen,der,,,FALSE
+vorab,заранее,vor der geplanten Zeit,Adverb,,,,FALSE
+unbestritten,бесспорный,alle sind damit einverstanden,Adjektiv,,,Nominativ,FALSE
+streiten,спорить,zwei Personen sind nicht einverstanden,Verb,,mit,Dativ,FALSE
+abschalten,выключать,Gerät nicht mehr funktionieren lassen,Verb,,,Akkusativ,FALSE
+abschalten,расслабляться,nicht mehr an Probleme denken,Verb,,,Akkusativ,TRUE
+überflüssig,излишний,ist nicht nötig oder zu viel,Adjektiv,,,Nominativ,FALSE
+staunen,удивляться,ist überrascht über etwas,Verb,,über,Akkusativ,FALSE
+bestaunen,восхищаться,schaut etwas mit großer Bewunderung an,Verb,,,Akkusativ,FALSE
+erstaunlich,удивительный,macht andere Menschen überrascht,Adjektiv,,,Nominativ,FALSE
+entfliehen,убегать,schnell weggehen von gefährlichem Ort,Verb,,,Dativ,FALSE
+erkranken,заболевать,wird krank oder bekommt Krankheit,Verb,,an,Dativ,FALSE
+überwiegen,превышать/преобладать,ist mehr oder stärker als andere Dinge,Verb,,,,FALSE
+künftig,будущий,passiert in der Zeit die noch kommt,Adjektiv,,,,FALSE
+belegen,доказывать,zeigt dass etwas wahr ist,Verb,,,Akkusativ,FALSE
+belegen,занимать,nimmt einen Platz oder Position,Verb,,,Akkusativ,FALSE
+Einzelner,отдельный человек,nur eine Person allein,Nomen,der,,Nominativ,FALSE
+bejahen,подтверждать,sagt ja oder stimmt zu,Verb,,,Akkusativ,FALSE
+Vielfalt,разнообразие,viele verschiedene Arten von Dingen,Nomen,die,,Nominativ,FALSE
+entzogen,отнятый/лишенный,wurde weggenommen oder ist nicht da,Adjektiv,,,,FALSE
+schrumpfend,сжимающийся,wird kleiner oder weniger,Adjektiv,,,,FALSE
+Schatten,тень,dunkler Bereich ohne direktes Licht,Nomen,der,,Nominativ,FALSE
+selbstauflösend,саморастворяющийся,löst sich von alleine auf,Adjektiv,,,,FALSE
+entstehen,возникать/образовываться,beginnt zu existieren oder wird gemacht,Verb,,aus,Dativ,FALSE
+wahrnehmbar,ощутимый,kann man sehen oder spüren,Adjektiv,,,,FALSE
+Winkel,угол,Punkt wo sich zwei Linien treffen,Nomen,der,,Nominativ,FALSE
+anstrahlen,освещать,macht Licht auf etwas scheinen,Verb,,,Akkusativ,FALSE
+senkrecht,вертикальный,steht gerade nach oben oder unten,Adjektiv,,,,FALSE
+waagerecht,горизонтальный,liegt flach von links nach rechts,Adjektiv,,,,FALSE
+neigen,наклонять,macht etwas schräg oder nicht gerade,Verb,,zu,Dativ,FALSE
+neigen,склоняться,bewegt sich in eine Richtung,Verb,,,Dativ,TRUE
+umgekehrt,наоборот,ist das Gegenteil oder anders herum,Adverb,,,,FALSE

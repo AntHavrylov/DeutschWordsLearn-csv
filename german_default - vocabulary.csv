@@ -160,7 +160,7 @@ hervorstechen,выделяться/бросаться в глаза,sehr deutlic
 ausformen,формировать/оформлять,eine bestimmte Form geben,Verb,,,Akkusativ,FALSE
 rasant,стремительный/быстрый,sehr schnell,Adjektiv,,,,FALSE
 besinnen,напоминать/размышлять/одуматься,über etwas nachdenken,Verb,,,Akkusativ,TRUE
-aufwenden,тратить/затрачивать,Zeit oder Geld für etwas benutzen,Verb,,von,Akkusativ,TRUE
+aufwenden,тратить/затрачивать,Zeit oder Geld für etwas benutzen,Verb,,für,Akkusativ,TRUE
 aufgeben,сдаваться/отказываться/отправлять,nicht mehr versuchen oder etwas senden,Verb,,,Akkusativ,FALSE
 mithilfe,с помощью,mit der Unterstützung von jemandem oder etwas,Preposition,,,Genitiv,FALSE
 Weile,время/некоторое время,eine kurze Zeit,Nomen,die,,Nominativ,FALSE
@@ -285,7 +285,7 @@ verfehlen,промахиваться/не попадать,nicht treffen oder ni
 Sinn,смысл/чувство,Bedeutung oder Gefühl,Nomen,der,,,FALSE
 bewusst,сознательный,mit Wissen und Absicht,Adjektiv,,,,FALSE
 Zelt,палатка,tragbares Haus für Camping,Nomen,das,,,FALSE
-erkunden,исследовать,neue Orte oder Dinge entdecken,Verb,,,Akkusativ,FALSE
+erkunden,исследовать,neue Orte oder Dinge entdecken,Verb,,mit,Dativ,FALSE
 Menge,количество/толпа,große Anzahl von etwas,Nomen,die,,,FALSE
 keineswegs,ни в коем случае,absolut nicht,Adverb,,,,FALSE
 unentbehrlich,незаменимый,sehr wichtig und nötig,Adjektiv,,,,FALSE
@@ -405,3 +405,222 @@ waagerecht,горизонтальный,liegt flach von links nach rechts,Adjekt
 neigen,наклонять,macht etwas schräg oder nicht gerade,Verb,,zu,Dativ,FALSE
 neigen,склоняться,bewegt sich in eine Richtung,Verb,,,Dativ,TRUE
 umgekehrt,наоборот,ist das Gegenteil oder anders herum,Adverb,,,,FALSE
+Akteur,актёр,Person die etwas tut oder spielt,Nomen,der,,,FALSE
+Anreiz,стимул,etwas das motiviert,Nomen,der,,,FALSE
+Attraktivität,привлекательность,Eigenschaft interessant zu sein,Nomen,die,,,FALSE
+Balkendiagramm,столбчатая диаграмма,Grafik mit Balken für Daten,Nomen,das,,,FALSE
+Bildungsauftrag,образовательная миссия,Aufgabe zu bilden,Nomen,der,,,FALSE
+Brennpunktschule,школа в проблемном районе,Schule mit vielen Problemen,Nomen,die,,,FALSE
+Coach,тренер/коуч,Person die trainiert und hilft,Nomen,der,,,FALSE
+Doppelbelastung,двойная нагрузка,zwei schwere Aufgaben gleichzeitig,Nomen,die,,,FALSE
+Ganztagsschule,школа полного дня,Schule den ganzen Tag,Nomen,die,,,FALSE
+Hauptschulabschluss,аттестат об основном общем образовании,erster Schulabschluss,Nomen,der,,,FALSE
+Kreisdiagramm,круговая диаграмма,runde Grafik für Teile,Nomen,das,,,FALSE
+Lesekompetenz,навык чтения,Fähigkeit gut zu lesen,Nomen,die,,,FALSE
+Liniendiagramm,линейная диаграмма,Grafik mit Linien,Nomen,das,,,FALSE
+Mentor,наставник,Person die berät und hilft,Nomen,der,,,FALSE
+Naturwissenschaft,естественная наука,Wissenschaft über Natur,Nomen,die,,,FALSE
+Pisa-Schock,шок от результатов PISA,Überraschung über schlechte Ergebnisse,Nomen,der,,,FALSE
+Rahmenbedingun,рамочные условия,wichtige Bedingungen,Nomen,die,,,FALSE
+Rollenverständnis,понимание роли,wie man seine Rolle versteht,Nomen,das,,,FALSE
+Säulendiagramm,столбчатая диаграмма,Diagramm mit Säulen,Nomen,das,,,FALSE
+Vermittlung,передача/посредничество,etwas weitergeben oder helfen,Nomen,die,,,FALSE
+agieren,действовать,etwas tun oder handeln,Verb,,,,FALSE
+forschen,исследовать,Wissenschaft machen,Verb,,,,FALSE
+nicken,кивать,Kopf bewegen für ja,Verb,,,,FALSE
+wiederholen,повторять,noch einmal machen,Verb,,,,FALSE
+ausgebrannt,выгоревший,sehr müde ohne Energie,Adjektiv,,,,FALSE
+abwechslungsreich,разнообразный,mit viel Variation,Adjektiv,,,,FALSE
+definitiv,определённо,ganz sicher,Adjektiv,,,,FALSE
+eingehend,подробный,sehr genau und detailliert,Adjektiv,,,,FALSE
+pädagogisch,педагогический,über Bildung und Erziehung,Adjektiv,,,,FALSE
+alleingelassen,оставленным в одиночестве,ohne Hilfe sein,Verb,,,Akkusativ,TRUE
+auseinandersetzen,разбираться,über etwas nachdenken und diskutieren,Verb,,mit,Dativ,TRUE
+Allroundtalent,универсал,Person die alles gut kann,Nomen,das,,,FALSE
+Basics,основы,grundlegende Dinge,Nomen,die,,,FALSE
+Dialekt,диалект,regionale Sprache,Nomen,der,,,FALSE
+Disziplin,дисциплина,Ordnung und Selbstkontrolle,Nomen,die,,,FALSE
+Familienbetrieb,семейное предприятие,Firma einer Familie,Nomen,der,,,FALSE
+Formalität,формальность,offizielle Form,Nomen,die,,,FALSE
+Gesundheitswesen,здравоохранение,System für Gesundheit,Nomen,das,,,FALSE
+Goldschmiede,ювелирная мастерская,Werkstatt für Schmuck,Nomen,die,,,FALSE
+Kommilitone,сокурсник,Student an derselben Universität,Nomen,der,,,FALSE
+Kommilitonin,сокурсница,Studentin an derselben Universität,Nomen,die,,,FALSE
+Online-Seminar,онлайн-семинар,digitaler Kurs,Nomen,das,,,FALSE
+Rehabilitation,реабилитация,Prozess gesund zu werden,Nomen,die,,,FALSE
+Stammkundschaft,постоянные клиенты,Kunden die oft kommen,Nomen,die,,,FALSE
+Stundenplan,расписание занятий,Plan für Unterricht,Nomen,der,,,FALSE
+Webinar,вебинар,Online-Seminar,Nomen,das,,,FALSE
+alltäglich,повседневный,jeden Tag normal,Adjektiv,,,,FALSE
+ausführlich,подробный,sehr genau und detailliert,Adjektiv,,,,FALSE
+bürokratisch,бюрократический,mit viel Administration,Adjektiv,,,,FALSE
+friederecht,справедливый,korrekt und gerecht,Adjektiv,,,,FALSE
+langfristig,долгосрочный,für lange Zeit,Adjektiv,,,,FALSE
+pflegebedürftig,нуждающийся в уходе,braucht Hilfe im Alltag,Adjektiv,,,,FALSE
+preisgünstig,недорогой,nicht teuer,Adjektiv,,,,FALSE
+unerheblich,несущественный,nicht wichtig,Adjektiv,,,,FALSE
+unwesentlich,несущественный,nicht wichtig,Adjektiv,,,,FALSE
+verantwortungsvoll,ответственный,mit viel Verantwortung,Adjektiv,,,,FALSE
+vertrauensvoll,доверительный,mit viel Vertrauen,Adjektiv,,,,FALSE
+wettbewerbsfähig,конкурентоспособный,kann gut konkurrieren,Adjektiv,,,,FALSE
+vorerst,пока что,für den Moment,Adverb,,,,FALSE
+absolvieren,окончить/завершить,erfolgreich beenden,Verb,,,,FALSE
+erläutern,пояснять,etwas erklären,Verb,,,,FALSE
+freistellen,освобождать/предоставлять выбор,frei lassen zu wählen,Verb,,,,FALSE
+orientieren,ориентироваться,Richtung finden,Verb,,an,Dativ,TRUE
+vernetzen,налаживать связи,Kontakte aufbauen,Verb,,,Akkusativ,TRUE
+Antike,античность,alte griechische und römische Zeit,Nomen,die,,,FALSE
+Armee,армия,militärische Truppen,Nomen,die,,,FALSE
+Autonomie,автономия,Unabhängigkeit,Nomen,die,,,FALSE
+Dampfmaschine,паровая машина,Maschine mit Dampfkraft,Nomen,die,,,FALSE
+Feldzug,военный поход,militärische Kampagne,Nomen,der,,,FALSE
+Kolonialismus,колониализм,System von Kolonien,Nomen,der,,,FALSE
+Logistik,логистика,Organisation von Transport,Nomen,die,,,FALSE
+Mittelalter,средневековье,Zeit zwischen Antike und Neuzeit,Nomen,das,,,FALSE
+Motivation,мотивация,Grund etwas zu tun,Nomen,die,,,FALSE
+Planet,планета,Himmelskörper,Nomen,der,,,FALSE
+Plantage,плантация,große Farm,Nomen,die,,,FALSE
+Satellit,спутник,Objekt im Weltraum,Nomen,der,,,FALSE
+Seefahrt,мореплавание,Reisen auf dem Meer,Nomen,die,,,FALSE
+Sprachenvielfalt,языковое разнообразие,viele verschiedene Sprachen,Nomen,die,,,FALSE
+Technologie,технология,technisches Wissen,Nomen,die,,,FALSE
+Unabhängigkeitsbewegung,движение за независимость,Kampf für Freiheit,Nomen,die,,,FALSE
+Vernetzung,взаимосвязь,Verbindung zwischen Dingen,Nomen,die,,,FALSE
+Völkerwanderung,великое переселение народов,Bewegung vieler Völker,Nomen,die,,,FALSE
+Voraussetzung,предпосылка,Bedingung die erfüllt sein muss,Nomen,die,,,FALSE
+Weltraum,космос,Raum außerhalb der Erde,Nomen,der,,,FALSE
+Zerfall,распад,Prozess des Zusammenbrechens,Nomen,der,,,FALSE
+ausbeuten,эксплуатировать,unfair nutzen,Verb,,,,FALSE
+behaupten,утверждать,sagen dass etwas wahr ist,Verb,,,,FALSE
+erobern,завоёвывать,durch Kampf nehmen,Verb,,,,FALSE
+posten,постить,im Internet veröffentlichen,Verb,,,,FALSE
+aggressiv,агрессивный,sehr kämpferisch,Adjektiv,,,,FALSE
+ehemalig,бывший,früher aber nicht mehr,Adjektiv,,,,FALSE
+geopolitisch,геополитический,über Politik und Geografie,Adjektiv,,,,FALSE
+global,глобальный,weltweit,Adjektiv,,,,FALSE
+humanitär,гуманитарный,für Menschen und Hilfe,Adjektiv,,,,FALSE
+massenhaft,массово,in großer Menge,Adjektiv,,,,FALSE
+revolutionär,революционный,sehr neue Veränderung,Adjektiv,,,,FALSE
+umstritten,спорный,nicht alle sind einverstanden,Adjektiv,,,,FALSE
+Abfallbilanz,баланс отходов,Rechnung über Müll,Nomen,die,,,FALSE
+Anliegen,просьба/забота,wichtiges Thema für jemanden,Nomen,das,,,FALSE
+Badminton,бадминтон,Sportspiel mit Federball,Nomen,das,,,FALSE
+Belichtung,освещение/экспозиция,Licht auf etwas,Nomen,die,,,FALSE
+Durchlässigkeit,проницаемость,etwas kann durchgehen,Nomen,die,,,FALSE
+Einblick,понимание/взгляд,Möglichkeit hineinzusehen,Nomen,der,,,FALSE
+Influencer,инфлюенсер,Person mit vielen Followern,Nomen,der,,,FALSE
+Lebensgewohnheit,жизненная привычка,wie man normalerweise lebt,Nomen,die,,,FALSE
+Mediengestalter,медиа-дизайнер,Person die Medien gestaltet,Nomen,der,,,FALSE
+Plastikfolie,пластиковая плёнка,dünner Plastik,Nomen,die,,,FALSE
+Reiseausrüstung,туристическое снаряжение,Dinge für Reise,Nomen,die,,,FALSE
+Reiseblogger,тревел-блогер,Person die über Reisen bloggt,Nomen,der,,,FALSE
+Reiz,стимул/привлекательность,etwas das anzieht,Nomen,der,,,FALSE
+Transformation,трансформация,große Veränderung,Nomen,die,,,FALSE
+Versuchstier,подопытное животное,Tier für Experimente,Nomen,das,,,FALSE
+Weltbürger,гражданин мира,Person die überall zuhause ist,Nomen,der,,,FALSE
+Werbeagentur,рекламное агентство,Firma für Werbung,Nomen,die,,,FALSE
+Zeremonie,церемония,formelle Feier,Nomen,die,,,FALSE
+angemessen,адекватный/соответствующий,passend für Situation,Adjektiv,,,,FALSE
+assoziativ,ассоциативный,durch Verbindungen im Kopf,Adjektiv,,,,FALSE
+intuitiv,интуитивный,ohne nachzudenken richtig,Adjektiv,,,,FALSE
+rührend,трогательный,macht emotional,Adjektiv,,,,FALSE
+überholt,устаревший,nicht mehr aktuell,Adjektiv,,,,FALSE
+vegan,веганский,ohne tierische Produkte,Adjektiv,,,,FALSE
+zertifiziert,сертифицированный,offiziell bestätigt,Adjektiv,,,,FALSE
+zurückhaltend,сдержанный,nicht zu viel zeigen,Adjektiv,,,,FALSE
+importieren,импортировать,von außen bringen,Verb,,,,FALSE
+zunehmen,увеличиваться/прибавлять в весе,mehr werden,Verb,,,,FALSE
+ansiedeln,поселяться/обосноваться,an einem Ort leben beginnen,Verb,,,Akkusativ,TRUE
+melden,сообщать/регистрироваться,Information geben,Verb,,,Akkusativ,TRUE
+sehen,видеть/встречаться,mit Augen wahrnehmen oder treffen,Verb,,,Akkusativ,TRUE
+vertrauen,доверять,glauben dass jemand gut ist,Verb,,mit,Dativ,TRUE
+Äquator,экватор,Linie in der Mitte der Erde,Nomen,der,,,FALSE
+Charakteristikum,характерная черта,typische Eigenschaft,Nomen,das,,,FALSE
+Durchschnittstemperatur,средняя температура,normale Temperatur,Nomen,die,,,FALSE
+Dürre,засуха,lange Zeit ohne Regen,Nomen,die,,,FALSE
+Einfallswinkel,угол падения,Winkel von oben,Nomen,der,,,FALSE
+Erdachse,земная ось,gedachte Linie durch Erde,Nomen,die,,,FALSE
+Gewässer,водоём,Wasser wie See oder Fluss,Nomen,das,,,FALSE
+Hitze,жара,sehr hohe Temperatur,Nomen,die,,,FALSE
+Kältewelle,волна холода,plötzlich sehr kalt,Nomen,die,,,FALSE
+Hochwasser,наводнение,zu viel Wasser,Nomen,das,,,FALSE
+Insekt,насекомое,kleines Tier mit sechs Beinen,Nomen,das,,,FALSE
+Jahresverlauf,годовой цикл,wie das Jahr verläuft,Nomen,der,,,FALSE
+Jahreszyklus,годовой цикл,wiederkehrender Jahresablauf,Nomen,der,,,FALSE
+Klimawandel,изменение климата,Veränderung des Klimas,Nomen,der,,,FALSE
+Konstellation,констелляция,Anordnung von Dingen,Nomen,die,,,FALSE
+Meteorologe,метеоролог,Wissenschaftler für Wetter,Nomen,der,,,FALSE
+Nahrungskette,пищевая цепь,wer wen isst,Nomen,die,,,FALSE
+Neigungswinkel,угол наклона,wie schräg etwas ist,Nomen,der,,,FALSE
+Niederschlag,осадки,Regen oder Schnee,Nomen,der,,,FALSE
+Niveau,уровень,Höhe oder Standard,Nomen,das,,,FALSE
+Nord-Südhalbkugel,северное-южное полушарие,obere und untere Hälfte der Erde,Nomen,die,,,FALSE
+Nord-Südpol,северный-южный полюс,oberster und unterster Punkt,Nomen,der,,,FALSE
+Periode,период,bestimmter Zeitabschnitt,Nomen,die,,,FALSE
+Phase,фаза,Teil eines Prozesses,Nomen,die,,,FALSE
+Sonnenaufgang,восход солнца,wenn Sonne aufgeht,Nomen,der,,,FALSE
+Sonnenuntergang,закат солнца,wenn Sonne untergeht,Nomen,der,,,FALSE
+Sonneneinstrahlung,солнечное излучение,Licht von der Sonne,Nomen,die,,,FALSE
+Sonnenstrahl,солнечный луч,Licht der Sonne,Nomen,der,,,FALSE
+Synonym,синоним,Wort mit gleicher Bedeutung,Nomen,das,,,FALSE
+Treibhauseffekt,парниковый эффект,Erwärmung durch Gase,Nomen,der,,,FALSE
+Umlaufbahn,орбита,Weg um etwas herum,Nomen,die,,,FALSE
+Vegetationsperiode,вегетационный период,Zeit wenn Pflanzen wachsen,Nomen,die,,,FALSE
+Wetteraufzeichnung,метеорологические записи,Notizen über Wetter,Nomen,die,,,FALSE
+Wetterereignis,погодное явление,besonderes Wetter,Nomen,das,,,FALSE
+Wetterphänomen,погодный феномен,besonderes Wetterverhalten,Nomen,das,,,FALSE
+Winkel,угол,Ecke zwischen zwei Linien,Nomen,der,,,FALSE
+statistisch,статистический,mit Zahlen und Daten,Adjektiv,,,,FALSE
+tragisch,трагический,sehr traurig,Adjektiv,,,,FALSE
+vermehrt,усиленно/учащённо,mehr als vorher,Adjektiv,,,,FALSE
+aussterben,вымирать,nicht mehr existieren,Verb,,,,FALSE
+umkreisen,вращаться вокруг,im Kreis um etwas gehen,Verb,,,,FALSE
+wahrnehmen,воспринимать,mit Sinnen erkennen,Verb,,,,FALSE
+aufeinanderfolgend,последовательный,eins nach dem anderen,Adjektiv,,,,FALSE
+gegenüberliegend,противоположный,auf der anderen Seite,Adjektiv,,,,FALSE
+kurzfristig,краткосрочный,für kurze Zeit,Adjektiv,,,,FALSE
+zurückführen,возвращать/объяснять причиной,auf Ursache bringen,Verb,,auf,Akkusativ,FALSE
+Auflage,тираж/издание,Anzahl gedruckter Bücher,Nomen,die,,,FALSE
+Bestand,запас/поголовье,was vorhanden ist,Nomen,der,,,FALSE
+Denkmalschutz,охрана памятников,Schutz alter Gebäude,Nomen,der,,,FALSE
+Ebbe,отлив,niedriges Wasser am Meer,Nomen,die,,,FALSE
+Epidemie,эпидемия,Krankheit verbreitet sich,Nomen,die,,,FALSE
+Fischerei,рыболовство,Fangen von Fischen,Nomen,die,,,FALSE
+Flut,прилив/наводнение,hohes Wasser,Nomen,die,,,FALSE
+Fonds,фонд,Geld für bestimmten Zweck,Nomen,der,,,FALSE
+Komitee,комитет,Gruppe für Entscheidungen,Nomen,das,,,FALSE
+Konvention,конвенция,internationale Vereinbarung,Nomen,die,,,FALSE
+Kriterium,критерий,Regel für Bewertung,Nomen,das,,,FALSE
+Kulturstätte,культурный объект,Ort mit Kultur,Nomen,die,,,FALSE
+Nationalpark,национальный парк,geschütztes Naturgebiet,Nomen,der,,,FALSE
+Naturstätte,природный объект,natürlicher wichtiger Ort,Nomen,die,,,FALSE
+Population,популяция,Gruppe von Lebewesen,Nomen,die,,,FALSE
+Rückgang,снижение,weniger werden,Nomen,der,,,FALSE
+Seegras,морская трава,Pflanze im Meer,Nomen,das,,,FALSE
+Seehund,тюлень,Tier im Meer,Nomen,der,,,FALSE
+Spende,пожертвование,Geld das man gibt,Nomen,die,,,FALSE
+Status,статус,Position oder Zustand,Nomen,der,,,FALSE
+Überfischung,чрезмерный вылов рыбы,zu viel Fische fangen,Nomen,die,,,FALSE
+Überflutung,затопление,zu viel Wasser überall,Nomen,die,,,FALSE
+UNESCO-Weltnaturerbe,объект всемирного наследия ЮНЕСКО,wichtiger Ort für Welt,Nomen,das,,,FALSE
+Vogelwarte,орнитологическая станция,Ort um Vögel zu beobachten,Nomen,die,,,FALSE
+Wal,кит,großes Tier im Meer,Nomen,der,,,FALSE
+Wattenmeer,ваттовое море,flaches Meer mit Ebbe und Flut,Nomen,das,,,FALSE
+Zugvogel,перелётная птица,Vogel der im Winter wegfliegt,Nomen,der,,,FALSE
+schützenswert,заслуживающий защиты,sollte geschützt werden,Adjektiv,,,,FALSE
+überragend,выдающийся,besser als andere,Adjektiv,,,,FALSE
+ästhetisch,эстетический,schön anzusehen,Adjektiv,,,,FALSE
+bemerkenswert,примечательный,besonders interessant,Adjektiv,,,,FALSE
+dauerhaft,долговременный,für lange Zeit,Adjektiv,,,,FALSE
+eigenständig,самостоятельный,unabhängig,Adjektiv,,,,FALSE
+einzigartig,уникальный,nur einmal so,Adjektiv,,,,FALSE
+geologisch,геологический,über Steine und Erde,Adjektiv,,,,FALSE
+landschaftszerstörend,разрушающий ландшафт,macht Landschaft kaputt,Adjektiv,,,,FALSE
+ansiedeln,поселяться,an einem Ort beginnen zu leben,Verb,,,Akkusativ,TRUE
+bewahren,сохранять,schützen und behalten,Verb,,,,FALSE
+dokumentieren,документировать,aufschreiben oder aufnehmen,Verb,,,,FALSE
+ertrinken,тонуть,im Wasser sterben,Verb,,,,FALSE
+stabilisieren,стабилизировать,stabil machen,Verb,,,,FALSE
+tagen,заседать/проводить заседание,offiziell zusammenkommen,Verb,,,,FALSE
+einsetzen,применять/использовать,benutzen oder anfangen,Verb,,für,Akkusativ,TRUE
+verzeichnen,регистрировать/фиксировать,offiziell notieren,Verb,,,Akkusativ,FALSE
